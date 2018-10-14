@@ -2,20 +2,25 @@ import folium
 import matplotlib.pyplot as plt
 import pandas as pd
 
+##############  Downloadeding all the Citi bike trip data and placing them within one dataframe ################
+
 data1 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201701-citibike-tripdata.csv')
 data2 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201702-citibike-tripdata.csv')
 data3 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201703-citibike-tripdata.csv')
-data4 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201704-citibike-tripdata.csv')
-data5 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201705-citibike-tripdata.csv')
-data6 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201706-citibike-tripdata.csv')
-data7 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201707-citibike-tripdata.csv')
-data8 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201708-citibike-tripdata.csv')
-data9 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201709-citibike-tripdata.csv')
-data10 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201710-citibike-tripdata.csv')
-data11 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201711-citibike-tripdata.csv')
-data12 =pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201712-citibike-tripdata.csv')
+data4 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201704-citibike-tripdata.csv')
+data5 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201705-citibike-tripdata.csv')
+data6 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201706-citibike-tripdata.csv')
+data7 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201707-citibike-tripdata.csv')
+data8 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201708-citibike-tripdata.csv')
+data9 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201709-citibike-tripdata.csv')
+data10 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201710-citibike-tripdata.csv')
+data11 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201711-citibike-tripdata.csv')
+data12 = pd.read_csv('C:\\Users\\Gabriel Hidalgo\\PycharmProjects\\Maps\\nyc_citi\\201712-citibike-tripdata.csv')
 
 data = pd.concat([data1,data2,data3,data4,data5,data6,data7,data8,data9,data10,data11,data12],ignore_index=True,sort=False)
+
+##########  I am cleaning up the data to create a dataframe with all the  ############
+###################     different total count for each layer  ##########
 
 a = data['start station id'].value_counts()
 a = a.rename_axis('start station id').reset_index(name='start counts')
@@ -31,13 +36,20 @@ d = d.drop(columns=['start station id'])
 d = d.dropna().reset_index().drop(columns=['index'])
 d['sum counts'] = d["end counts"].add(d["start counts"])
 
+############    With that created DataFrame I am starting to set the Folium Base Map    ##########
+
 nyc = (40.7128,-74.0060)
 
 m = folium.Map(location=nyc,zoom_start=13, tiles = "Stamen Toner")
+
+###########     Below I am creating the first folium layer of the Sum of All Trips Map Layer ####################
+
 trip_sum = folium.FeatureGroup(name = 'Sum of All Trips')
 
 for i in range(0,len(d)):
     colors = ['#ff4d4d', '#6666ff']
+#######     Here I am creating the graphs within the popups that show the   ####################
+#########    distribution of the trip type within each dock     ####################
     plt.figure(i)
     plt.figure(figsize=(5, 5))
     dis = pd.DataFrame([d.iloc[i]['end counts'], d.iloc[i]['start counts']], index=['end','start'], columns=['Amount'])
@@ -47,6 +59,9 @@ for i in range(0,len(d)):
     png = 'graphs\\{}.png'.format(i)
     plt.savefig(png)
 
+####################    Setting all the radius size and colors according to the ####################
+####################    amount of sum trip criteria I defined below #####################
+####################    Plus adding the iframe code to describe the dock #####################
     radius = (int(d.iloc[i]['sum counts'])/int(d['sum counts'].max()))*10
     if 0.45 <= ((d.iloc[i]['start counts']) / (d.iloc[i]['sum counts'])) <= 0.55:
         color = '#ffff66'
@@ -61,6 +76,8 @@ for i in range(0,len(d)):
                         <font size='2' style="font-family:'Raleway', sans-serif;"><b>Graph of Station Activity:</b></font><br>
         <img src="https://www.gabrielhn.com/static/images/citi_graph/Pie/{}.png" style='width:175px;height:175px;margin-top:0.5cm;'></div>"""
 
+#################### Placing all the circle markers for the layer ##############################
+
     popup_text = popup_text.format(color,str(d.iloc[i]['start station name']), str(d.iloc[i]['sum counts']), str(i))
     iframe = folium.IFrame(popup_text, width=250, height=310)
     popup = folium.Popup(iframe, max_width=400)
@@ -69,7 +86,12 @@ for i in range(0,len(d)):
 
 m.add_child(trip_sum)
 
-##Top 10 Stations for Activity
+##################    Repeating same process or the other layers    ##########################
+
+
+###########################     Top 10 Used Dock Map Layer ############################
+
+########    Sorting the docks by the top 10 docks with the most combined trips  ##############
 ten = d.sort_values(by=['sum counts'],ascending=False)[0:10].reset_index()
 used = folium.FeatureGroup(name = 'Top Used Stations')
 
@@ -89,7 +111,7 @@ for i in range(0,len(ten)):
 m.add_child(used)
 
 
-#Start Trip Count
+###########################     Start Trips Map Layer ############################
 start = folium.FeatureGroup(name = 'Start Trip Station Count',show=False)
 
 for i in range(0,len(d)):
@@ -109,7 +131,7 @@ for i in range(0,len(d)):
 
 m.add_child(start)
 
-#End Trip Count
+###########################     End Trips Map Layer ############################
 end = folium.FeatureGroup(name = 'End Trip Station Count',show=False)
 
 for i in range(0,len(d)):
@@ -132,5 +154,7 @@ m.add_child(end)
 
 folium.LayerControl().add_to(m)
 
+
+#########   Finally saving the Folium map in a HTML file ###############
 
 m.save('bike_amount.html')

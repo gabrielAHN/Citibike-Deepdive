@@ -86,7 +86,7 @@ for i in range(0,len(d)):
 
 m.add_child(trip_sum)
 
-##################    Repeating same process or the other layers    ##########################
+##################    Repeating same process for the other layers    ##########################
 
 
 ###########################     Top 10 Used Dock Map Layer ############################

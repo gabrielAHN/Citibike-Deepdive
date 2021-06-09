@@ -1,0 +1,522 @@
+[
+    {
+        "year": "01/2017",
+        "amount": 700465,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "01/2017",
+        "amount": 23018,
+        "usertype": "Customer"
+    },
+    {
+        "year": "02/2017",
+        "amount": 741151,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "02/2017",
+        "amount": 42916,
+        "usertype": "Customer"
+    },
+    {
+        "year": "03/2017",
+        "amount": 695752,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "03/2017",
+        "amount": 26777,
+        "usertype": "Customer"
+    },
+    {
+        "year": "04/2017",
+        "amount": 1126544,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "04/2017",
+        "amount": 188860,
+        "usertype": "Customer"
+    },
+    {
+        "year": "05/2017",
+        "amount": 1333508,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "05/2017",
+        "amount": 189760,
+        "usertype": "Customer"
+    },
+    {
+        "year": "06/2017",
+        "amount": 1516952,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "06/2017",
+        "amount": 214642,
+        "usertype": "Customer"
+    },
+    {
+        "year": "07/2017",
+        "amount": 1473887,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "07/2017",
+        "amount": 261712,
+        "usertype": "Customer"
+    },
+    {
+        "year": "08/2017",
+        "amount": 1558439,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "08/2017",
+        "amount": 258059,
+        "usertype": "Customer"
+    },
+    {
+        "year": "09/2017",
+        "amount": 1643109,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "09/2017",
+        "amount": 234989,
+        "usertype": "Customer"
+    },
+    {
+        "year": "10/2017",
+        "amount": 1692592,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "10/2017",
+        "amount": 205000,
+        "usertype": "Customer"
+    },
+    {
+        "year": "11/2017",
+        "amount": 1241353,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "11/2017",
+        "amount": 89296,
+        "usertype": "Customer"
+    },
+    {
+        "year": "12/2017",
+        "amount": 855573,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "12/2017",
+        "amount": 34394,
+        "usertype": "Customer"
+    },
+    {
+        "year": "01/2018",
+        "amount": 696886,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "01/2018",
+        "amount": 22108,
+        "usertype": "Customer"
+    },
+    {
+        "year": "02/2018",
+        "amount": 809756,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "02/2018",
+        "amount": 33358,
+        "usertype": "Customer"
+    },
+    {
+        "year": "03/2018",
+        "amount": 917637,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "03/2018",
+        "amount": 59035,
+        "usertype": "Customer"
+    },
+    {
+        "year": "04/2018",
+        "amount": 1158232,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "04/2018",
+        "amount": 149311,
+        "usertype": "Customer"
+    },
+    {
+        "year": "05/2018",
+        "amount": 1582116,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "05/2018",
+        "amount": 242594,
+        "usertype": "Customer"
+    },
+    {
+        "year": "06/2018",
+        "amount": 1694788,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "06/2018",
+        "amount": 258315,
+        "usertype": "Customer"
+    },
+    {
+        "year": "07/2018",
+        "amount": 1628746,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "07/2018",
+        "amount": 284879,
+        "usertype": "Customer"
+    },
+    {
+        "year": "08/2018",
+        "amount": 1703456,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "08/2018",
+        "amount": 273721,
+        "usertype": "Customer"
+    },
+    {
+        "year": "09/2018",
+        "amount": 1616731,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "09/2018",
+        "amount": 261153,
+        "usertype": "Customer"
+    },
+    {
+        "year": "10/2018",
+        "amount": 1686256,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "10/2018",
+        "amount": 192401,
+        "usertype": "Customer"
+    },
+    {
+        "year": "11/2018",
+        "amount": 1164813,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "11/2018",
+        "amount": 95542,
+        "usertype": "Customer"
+    },
+    {
+        "year": "12/2018",
+        "amount": 955408,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "12/2018",
+        "amount": 61097,
+        "usertype": "Customer"
+    },
+    {
+        "year": "01/2019",
+        "amount": 927114,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "01/2019",
+        "amount": 40173,
+        "usertype": "Customer"
+    },
+    {
+        "year": "02/2019",
+        "amount": 897393,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "02/2019",
+        "amount": 46351,
+        "usertype": "Customer"
+    },
+    {
+        "year": "03/2019",
+        "amount": 1221302,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "03/2019",
+        "amount": 106658,
+        "usertype": "Customer"
+    },
+    {
+        "year": "04/2019",
+        "amount": 1536661,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "04/2019",
+        "amount": 229433,
+        "usertype": "Customer"
+    },
+    {
+        "year": "05/2019",
+        "amount": 1629997,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "05/2019",
+        "amount": 294566,
+        "usertype": "Customer"
+    },
+    {
+        "year": "06/2019",
+        "amount": 1752526,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "06/2019",
+        "amount": 372844,
+        "usertype": "Customer"
+    },
+    {
+        "year": "07/2019",
+        "amount": 1803055,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "07/2019",
+        "amount": 378009,
+        "usertype": "Customer"
+    },
+    {
+        "year": "08/2019",
+        "amount": 1900359,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "08/2019",
+        "amount": 443865,
+        "usertype": "Customer"
+    },
+    {
+        "year": "09/2019",
+        "amount": 2010493,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "09/2019",
+        "amount": 434407,
+        "usertype": "Customer"
+    },
+    {
+        "year": "10/2019",
+        "amount": 1796820,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "10/2019",
+        "amount": 295753,
+        "usertype": "Customer"
+    },
+    {
+        "year": "11/2019",
+        "amount": 1326216,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "11/2019",
+        "amount": 152492,
+        "usertype": "Customer"
+    },
+    {
+        "year": "12/2019",
+        "amount": 877585,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "12/2019",
+        "amount": 77625,
+        "usertype": "Customer"
+    },
+    {
+        "year": "01/2020",
+        "amount": 1145819,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "01/2020",
+        "amount": 94777,
+        "usertype": "Customer"
+    },
+    {
+        "year": "02/2020",
+        "amount": 1054927,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "02/2020",
+        "amount": 91903,
+        "usertype": "Customer"
+    },
+    {
+        "year": "03/2020",
+        "amount": 914068,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "03/2020",
+        "amount": 154389,
+        "usertype": "Customer"
+    },
+    {
+        "year": "04/2020",
+        "amount": 516495,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "04/2020",
+        "amount": 166267,
+        "usertype": "Customer"
+    },
+    {
+        "year": "05/2020",
+        "amount": 1012059,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "05/2020",
+        "amount": 475831,
+        "usertype": "Customer"
+    },
+    {
+        "year": "06/2020",
+        "amount": 1306688,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "06/2020",
+        "amount": 575585,
+        "usertype": "Customer"
+    },
+    {
+        "year": "07/2020",
+        "amount": 1530982,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "07/2020",
+        "amount": 574826,
+        "usertype": "Customer"
+    },
+    {
+        "year": "08/2020",
+        "amount": 1671914,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "08/2020",
+        "amount": 657600,
+        "usertype": "Customer"
+    },
+    {
+        "year": "09/2020",
+        "amount": 1817674,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "09/2020",
+        "amount": 670551,
+        "usertype": "Customer"
+    },
+    {
+        "year": "10/2020",
+        "amount": 1702115,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "10/2020",
+        "amount": 546754,
+        "usertype": "Customer"
+    },
+    {
+        "year": "11/2020",
+        "amount": 1362408,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "11/2020",
+        "amount": 374296,
+        "usertype": "Customer"
+    },
+    {
+        "year": "12/2020",
+        "amount": 920617,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "12/2020",
+        "amount": 168312,
+        "usertype": "Customer"
+    },
+    {
+        "year": "01/2021",
+        "amount": 945169,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "01/2021",
+        "amount": 150177,
+        "usertype": "Customer"
+    },
+    {
+        "year": "02/2021",
+        "amount": 166172,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "02/2021",
+        "amount": 468459,
+        "usertype": "Customer"
+    },
+    {
+        "year": "03/2021",
+        "amount": 177523,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "03/2021",
+        "amount": 1316534,
+        "usertype": "Customer"
+    },
+    {
+        "year": "04/2021",
+        "amount": 86777,
+        "usertype": "Subscriber"
+    },
+    {
+        "year": "04/2021",
+        "amount": 1929374,
+        "usertype": "Customer"
+    }
+]

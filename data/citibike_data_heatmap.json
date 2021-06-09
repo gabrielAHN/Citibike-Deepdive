@@ -1,0 +1,5992 @@
+{
+    "2017": [
+        {
+            "month": 1,
+            "hour": 1,
+            "amount": 3392
+        },
+        {
+            "month": 1,
+            "hour": 2,
+            "amount": 2015
+        },
+        {
+            "month": 1,
+            "hour": 3,
+            "amount": 1359
+        },
+        {
+            "month": 1,
+            "hour": 4,
+            "amount": 1430
+        },
+        {
+            "month": 1,
+            "hour": 5,
+            "amount": 5812
+        },
+        {
+            "month": 1,
+            "hour": 6,
+            "amount": 19491
+        },
+        {
+            "month": 1,
+            "hour": 7,
+            "amount": 41589
+        },
+        {
+            "month": 1,
+            "hour": 8,
+            "amount": 73457
+        },
+        {
+            "month": 1,
+            "hour": 9,
+            "amount": 52596
+        },
+        {
+            "month": 1,
+            "hour": 10,
+            "amount": 33992
+        },
+        {
+            "month": 1,
+            "hour": 11,
+            "amount": 33208
+        },
+        {
+            "month": 1,
+            "hour": 12,
+            "amount": 37833
+        },
+        {
+            "month": 1,
+            "hour": 13,
+            "amount": 39937
+        },
+        {
+            "month": 1,
+            "hour": 14,
+            "amount": 42158
+        },
+        {
+            "month": 1,
+            "hour": 15,
+            "amount": 42405
+        },
+        {
+            "month": 1,
+            "hour": 16,
+            "amount": 47103
+        },
+        {
+            "month": 1,
+            "hour": 17,
+            "amount": 65859
+        },
+        {
+            "month": 1,
+            "hour": 18,
+            "amount": 62736
+        },
+        {
+            "month": 1,
+            "hour": 19,
+            "amount": 42829
+        },
+        {
+            "month": 1,
+            "hour": 20,
+            "amount": 28683
+        },
+        {
+            "month": 1,
+            "hour": 21,
+            "amount": 19700
+        },
+        {
+            "month": 1,
+            "hour": 22,
+            "amount": 14347
+        },
+        {
+            "month": 1,
+            "hour": 23,
+            "amount": 9198
+        },
+        {
+            "month": 2,
+            "hour": 1,
+            "amount": 3162
+        },
+        {
+            "month": 2,
+            "hour": 2,
+            "amount": 1824
+        },
+        {
+            "month": 2,
+            "hour": 3,
+            "amount": 1025
+        },
+        {
+            "month": 2,
+            "hour": 4,
+            "amount": 1111
+        },
+        {
+            "month": 2,
+            "hour": 5,
+            "amount": 5021
+        },
+        {
+            "month": 2,
+            "hour": 6,
+            "amount": 17942
+        },
+        {
+            "month": 2,
+            "hour": 7,
+            "amount": 39029
+        },
+        {
+            "month": 2,
+            "hour": 8,
+            "amount": 70001
+        },
+        {
+            "month": 2,
+            "hour": 9,
+            "amount": 53434
+        },
+        {
+            "month": 2,
+            "hour": 10,
+            "amount": 35226
+        },
+        {
+            "month": 2,
+            "hour": 11,
+            "amount": 35856
+        },
+        {
+            "month": 2,
+            "hour": 12,
+            "amount": 42490
+        },
+        {
+            "month": 2,
+            "hour": 13,
+            "amount": 45744
+        },
+        {
+            "month": 2,
+            "hour": 14,
+            "amount": 48613
+        },
+        {
+            "month": 2,
+            "hour": 15,
+            "amount": 51272
+        },
+        {
+            "month": 2,
+            "hour": 16,
+            "amount": 58563
+        },
+        {
+            "month": 2,
+            "hour": 17,
+            "amount": 79216
+        },
+        {
+            "month": 2,
+            "hour": 18,
+            "amount": 69799
+        },
+        {
+            "month": 2,
+            "hour": 19,
+            "amount": 46404
+        },
+        {
+            "month": 2,
+            "hour": 20,
+            "amount": 31170
+        },
+        {
+            "month": 2,
+            "hour": 21,
+            "amount": 21916
+        },
+        {
+            "month": 2,
+            "hour": 22,
+            "amount": 16704
+        },
+        {
+            "month": 2,
+            "hour": 23,
+            "amount": 10343
+        },
+        {
+            "month": 3,
+            "hour": 1,
+            "amount": 2697
+        },
+        {
+            "month": 3,
+            "hour": 2,
+            "amount": 1359
+        },
+        {
+            "month": 3,
+            "hour": 3,
+            "amount": 869
+        },
+        {
+            "month": 3,
+            "hour": 4,
+            "amount": 1034
+        },
+        {
+            "month": 3,
+            "hour": 5,
+            "amount": 4665
+        },
+        {
+            "month": 3,
+            "hour": 6,
+            "amount": 17854
+        },
+        {
+            "month": 3,
+            "hour": 7,
+            "amount": 37752
+        },
+        {
+            "month": 3,
+            "hour": 8,
+            "amount": 67643
+        },
+        {
+            "month": 3,
+            "hour": 9,
+            "amount": 49701
+        },
+        {
+            "month": 3,
+            "hour": 10,
+            "amount": 30602
+        },
+        {
+            "month": 3,
+            "hour": 11,
+            "amount": 29332
+        },
+        {
+            "month": 3,
+            "hour": 12,
+            "amount": 34746
+        },
+        {
+            "month": 3,
+            "hour": 13,
+            "amount": 37039
+        },
+        {
+            "month": 3,
+            "hour": 14,
+            "amount": 39935
+        },
+        {
+            "month": 3,
+            "hour": 15,
+            "amount": 42290
+        },
+        {
+            "month": 3,
+            "hour": 16,
+            "amount": 51025
+        },
+        {
+            "month": 3,
+            "hour": 17,
+            "amount": 77941
+        },
+        {
+            "month": 3,
+            "hour": 18,
+            "amount": 73607
+        },
+        {
+            "month": 3,
+            "hour": 19,
+            "amount": 47076
+        },
+        {
+            "month": 3,
+            "hour": 20,
+            "amount": 29884
+        },
+        {
+            "month": 3,
+            "hour": 21,
+            "amount": 20857
+        },
+        {
+            "month": 3,
+            "hour": 22,
+            "amount": 15081
+        },
+        {
+            "month": 3,
+            "hour": 23,
+            "amount": 9347
+        },
+        {
+            "month": 4,
+            "hour": 1,
+            "amount": 5403
+        },
+        {
+            "month": 4,
+            "hour": 2,
+            "amount": 3323
+        },
+        {
+            "month": 4,
+            "hour": 3,
+            "amount": 1813
+        },
+        {
+            "month": 4,
+            "hour": 4,
+            "amount": 1761
+        },
+        {
+            "month": 4,
+            "hour": 5,
+            "amount": 6357
+        },
+        {
+            "month": 4,
+            "hour": 6,
+            "amount": 23604
+        },
+        {
+            "month": 4,
+            "hour": 7,
+            "amount": 49100
+        },
+        {
+            "month": 4,
+            "hour": 8,
+            "amount": 92768
+        },
+        {
+            "month": 4,
+            "hour": 9,
+            "amount": 79164
+        },
+        {
+            "month": 4,
+            "hour": 10,
+            "amount": 60608
+        },
+        {
+            "month": 4,
+            "hour": 11,
+            "amount": 66159
+        },
+        {
+            "month": 4,
+            "hour": 12,
+            "amount": 76740
+        },
+        {
+            "month": 4,
+            "hour": 13,
+            "amount": 82060
+        },
+        {
+            "month": 4,
+            "hour": 14,
+            "amount": 85092
+        },
+        {
+            "month": 4,
+            "hour": 15,
+            "amount": 87833
+        },
+        {
+            "month": 4,
+            "hour": 16,
+            "amount": 98723
+        },
+        {
+            "month": 4,
+            "hour": 17,
+            "amount": 133177
+        },
+        {
+            "month": 4,
+            "hour": 18,
+            "amount": 127572
+        },
+        {
+            "month": 4,
+            "hour": 19,
+            "amount": 86322
+        },
+        {
+            "month": 4,
+            "hour": 20,
+            "amount": 54112
+        },
+        {
+            "month": 4,
+            "hour": 21,
+            "amount": 37412
+        },
+        {
+            "month": 4,
+            "hour": 22,
+            "amount": 27951
+        },
+        {
+            "month": 4,
+            "hour": 23,
+            "amount": 18285
+        },
+        {
+            "month": 5,
+            "hour": 1,
+            "amount": 6332
+        },
+        {
+            "month": 5,
+            "hour": 2,
+            "amount": 3608
+        },
+        {
+            "month": 5,
+            "hour": 3,
+            "amount": 2202
+        },
+        {
+            "month": 5,
+            "hour": 4,
+            "amount": 2230
+        },
+        {
+            "month": 5,
+            "hour": 5,
+            "amount": 9112
+        },
+        {
+            "month": 5,
+            "hour": 6,
+            "amount": 31854
+        },
+        {
+            "month": 5,
+            "hour": 7,
+            "amount": 69813
+        },
+        {
+            "month": 5,
+            "hour": 8,
+            "amount": 123450
+        },
+        {
+            "month": 5,
+            "hour": 9,
+            "amount": 93690
+        },
+        {
+            "month": 5,
+            "hour": 10,
+            "amount": 65072
+        },
+        {
+            "month": 5,
+            "hour": 11,
+            "amount": 68624
+        },
+        {
+            "month": 5,
+            "hour": 12,
+            "amount": 78814
+        },
+        {
+            "month": 5,
+            "hour": 13,
+            "amount": 83086
+        },
+        {
+            "month": 5,
+            "hour": 14,
+            "amount": 86019
+        },
+        {
+            "month": 5,
+            "hour": 15,
+            "amount": 91278
+        },
+        {
+            "month": 5,
+            "hour": 16,
+            "amount": 106753
+        },
+        {
+            "month": 5,
+            "hour": 17,
+            "amount": 155736
+        },
+        {
+            "month": 5,
+            "hour": 18,
+            "amount": 153291
+        },
+        {
+            "month": 5,
+            "hour": 19,
+            "amount": 107149
+        },
+        {
+            "month": 5,
+            "hour": 20,
+            "amount": 69963
+        },
+        {
+            "month": 5,
+            "hour": 21,
+            "amount": 47265
+        },
+        {
+            "month": 5,
+            "hour": 22,
+            "amount": 34287
+        },
+        {
+            "month": 5,
+            "hour": 23,
+            "amount": 21676
+        },
+        {
+            "month": 6,
+            "hour": 1,
+            "amount": 8763
+        },
+        {
+            "month": 6,
+            "hour": 2,
+            "amount": 4987
+        },
+        {
+            "month": 6,
+            "hour": 3,
+            "amount": 3053
+        },
+        {
+            "month": 6,
+            "hour": 4,
+            "amount": 2884
+        },
+        {
+            "month": 6,
+            "hour": 5,
+            "amount": 10323
+        },
+        {
+            "month": 6,
+            "hour": 6,
+            "amount": 37915
+        },
+        {
+            "month": 6,
+            "hour": 7,
+            "amount": 76942
+        },
+        {
+            "month": 6,
+            "hour": 8,
+            "amount": 131383
+        },
+        {
+            "month": 6,
+            "hour": 9,
+            "amount": 106274
+        },
+        {
+            "month": 6,
+            "hour": 10,
+            "amount": 76131
+        },
+        {
+            "month": 6,
+            "hour": 11,
+            "amount": 80725
+        },
+        {
+            "month": 6,
+            "hour": 12,
+            "amount": 89374
+        },
+        {
+            "month": 6,
+            "hour": 13,
+            "amount": 92224
+        },
+        {
+            "month": 6,
+            "hour": 14,
+            "amount": 96725
+        },
+        {
+            "month": 6,
+            "hour": 15,
+            "amount": 102804
+        },
+        {
+            "month": 6,
+            "hour": 16,
+            "amount": 122012
+        },
+        {
+            "month": 6,
+            "hour": 17,
+            "amount": 172178
+        },
+        {
+            "month": 6,
+            "hour": 18,
+            "amount": 164455
+        },
+        {
+            "month": 6,
+            "hour": 19,
+            "amount": 119090
+        },
+        {
+            "month": 6,
+            "hour": 20,
+            "amount": 83638
+        },
+        {
+            "month": 6,
+            "hour": 21,
+            "amount": 58413
+        },
+        {
+            "month": 6,
+            "hour": 22,
+            "amount": 44692
+        },
+        {
+            "month": 6,
+            "hour": 23,
+            "amount": 29464
+        },
+        {
+            "month": 7,
+            "hour": 1,
+            "amount": 9583
+        },
+        {
+            "month": 7,
+            "hour": 2,
+            "amount": 5623
+        },
+        {
+            "month": 7,
+            "hour": 3,
+            "amount": 3424
+        },
+        {
+            "month": 7,
+            "hour": 4,
+            "amount": 3142
+        },
+        {
+            "month": 7,
+            "hour": 5,
+            "amount": 10427
+        },
+        {
+            "month": 7,
+            "hour": 6,
+            "amount": 35622
+        },
+        {
+            "month": 7,
+            "hour": 7,
+            "amount": 69445
+        },
+        {
+            "month": 7,
+            "hour": 8,
+            "amount": 116492
+        },
+        {
+            "month": 7,
+            "hour": 9,
+            "amount": 96711
+        },
+        {
+            "month": 7,
+            "hour": 10,
+            "amount": 71972
+        },
+        {
+            "month": 7,
+            "hour": 11,
+            "amount": 79730
+        },
+        {
+            "month": 7,
+            "hour": 12,
+            "amount": 92677
+        },
+        {
+            "month": 7,
+            "hour": 13,
+            "amount": 99618
+        },
+        {
+            "month": 7,
+            "hour": 14,
+            "amount": 101071
+        },
+        {
+            "month": 7,
+            "hour": 15,
+            "amount": 106928
+        },
+        {
+            "month": 7,
+            "hour": 16,
+            "amount": 124704
+        },
+        {
+            "month": 7,
+            "hour": 17,
+            "amount": 169934
+        },
+        {
+            "month": 7,
+            "hour": 18,
+            "amount": 167982
+        },
+        {
+            "month": 7,
+            "hour": 19,
+            "amount": 125138
+        },
+        {
+            "month": 7,
+            "hour": 20,
+            "amount": 90266
+        },
+        {
+            "month": 7,
+            "hour": 21,
+            "amount": 60166
+        },
+        {
+            "month": 7,
+            "hour": 22,
+            "amount": 47728
+        },
+        {
+            "month": 7,
+            "hour": 23,
+            "amount": 30021
+        },
+        {
+            "month": 8,
+            "hour": 1,
+            "amount": 9517
+        },
+        {
+            "month": 8,
+            "hour": 2,
+            "amount": 4981
+        },
+        {
+            "month": 8,
+            "hour": 3,
+            "amount": 3071
+        },
+        {
+            "month": 8,
+            "hour": 4,
+            "amount": 3157
+        },
+        {
+            "month": 8,
+            "hour": 5,
+            "amount": 11215
+        },
+        {
+            "month": 8,
+            "hour": 6,
+            "amount": 41796
+        },
+        {
+            "month": 8,
+            "hour": 7,
+            "amount": 78960
+        },
+        {
+            "month": 8,
+            "hour": 8,
+            "amount": 136339
+        },
+        {
+            "month": 8,
+            "hour": 9,
+            "amount": 111348
+        },
+        {
+            "month": 8,
+            "hour": 10,
+            "amount": 81315
+        },
+        {
+            "month": 8,
+            "hour": 11,
+            "amount": 86888
+        },
+        {
+            "month": 8,
+            "hour": 12,
+            "amount": 98436
+        },
+        {
+            "month": 8,
+            "hour": 13,
+            "amount": 98404
+        },
+        {
+            "month": 8,
+            "hour": 14,
+            "amount": 99431
+        },
+        {
+            "month": 8,
+            "hour": 15,
+            "amount": 105869
+        },
+        {
+            "month": 8,
+            "hour": 16,
+            "amount": 124720
+        },
+        {
+            "month": 8,
+            "hour": 17,
+            "amount": 177086
+        },
+        {
+            "month": 8,
+            "hour": 18,
+            "amount": 177233
+        },
+        {
+            "month": 8,
+            "hour": 19,
+            "amount": 130530
+        },
+        {
+            "month": 8,
+            "hour": 20,
+            "amount": 87017
+        },
+        {
+            "month": 8,
+            "hour": 21,
+            "amount": 59951
+        },
+        {
+            "month": 8,
+            "hour": 22,
+            "amount": 44415
+        },
+        {
+            "month": 8,
+            "hour": 23,
+            "amount": 28649
+        },
+        {
+            "month": 9,
+            "hour": 1,
+            "amount": 9317
+        },
+        {
+            "month": 9,
+            "hour": 2,
+            "amount": 5268
+        },
+        {
+            "month": 9,
+            "hour": 3,
+            "amount": 3149
+        },
+        {
+            "month": 9,
+            "hour": 4,
+            "amount": 3213
+        },
+        {
+            "month": 9,
+            "hour": 5,
+            "amount": 10807
+        },
+        {
+            "month": 9,
+            "hour": 6,
+            "amount": 39871
+        },
+        {
+            "month": 9,
+            "hour": 7,
+            "amount": 87898
+        },
+        {
+            "month": 9,
+            "hour": 8,
+            "amount": 146721
+        },
+        {
+            "month": 9,
+            "hour": 9,
+            "amount": 112511
+        },
+        {
+            "month": 9,
+            "hour": 10,
+            "amount": 84383
+        },
+        {
+            "month": 9,
+            "hour": 11,
+            "amount": 89960
+        },
+        {
+            "month": 9,
+            "hour": 12,
+            "amount": 105108
+        },
+        {
+            "month": 9,
+            "hour": 13,
+            "amount": 109168
+        },
+        {
+            "month": 9,
+            "hour": 14,
+            "amount": 111404
+        },
+        {
+            "month": 9,
+            "hour": 15,
+            "amount": 115229
+        },
+        {
+            "month": 9,
+            "hour": 16,
+            "amount": 133785
+        },
+        {
+            "month": 9,
+            "hour": 17,
+            "amount": 185563
+        },
+        {
+            "month": 9,
+            "hour": 18,
+            "amount": 183943
+        },
+        {
+            "month": 9,
+            "hour": 19,
+            "amount": 121029
+        },
+        {
+            "month": 9,
+            "hour": 20,
+            "amount": 77871
+        },
+        {
+            "month": 9,
+            "hour": 21,
+            "amount": 55828
+        },
+        {
+            "month": 9,
+            "hour": 22,
+            "amount": 41058
+        },
+        {
+            "month": 9,
+            "hour": 23,
+            "amount": 28099
+        },
+        {
+            "month": 10,
+            "hour": 1,
+            "amount": 9652
+        },
+        {
+            "month": 10,
+            "hour": 2,
+            "amount": 5498
+        },
+        {
+            "month": 10,
+            "hour": 3,
+            "amount": 3399
+        },
+        {
+            "month": 10,
+            "hour": 4,
+            "amount": 3095
+        },
+        {
+            "month": 10,
+            "hour": 5,
+            "amount": 10701
+        },
+        {
+            "month": 10,
+            "hour": 6,
+            "amount": 39376
+        },
+        {
+            "month": 10,
+            "hour": 7,
+            "amount": 86536
+        },
+        {
+            "month": 10,
+            "hour": 8,
+            "amount": 154114
+        },
+        {
+            "month": 10,
+            "hour": 9,
+            "amount": 119243
+        },
+        {
+            "month": 10,
+            "hour": 10,
+            "amount": 85390
+        },
+        {
+            "month": 10,
+            "hour": 11,
+            "amount": 87624
+        },
+        {
+            "month": 10,
+            "hour": 12,
+            "amount": 102681
+        },
+        {
+            "month": 10,
+            "hour": 13,
+            "amount": 106364
+        },
+        {
+            "month": 10,
+            "hour": 14,
+            "amount": 112274
+        },
+        {
+            "month": 10,
+            "hour": 15,
+            "amount": 119339
+        },
+        {
+            "month": 10,
+            "hour": 16,
+            "amount": 140489
+        },
+        {
+            "month": 10,
+            "hour": 17,
+            "amount": 195403
+        },
+        {
+            "month": 10,
+            "hour": 18,
+            "amount": 177351
+        },
+        {
+            "month": 10,
+            "hour": 19,
+            "amount": 116457
+        },
+        {
+            "month": 10,
+            "hour": 20,
+            "amount": 78147
+        },
+        {
+            "month": 10,
+            "hour": 21,
+            "amount": 57216
+        },
+        {
+            "month": 10,
+            "hour": 22,
+            "amount": 42313
+        },
+        {
+            "month": 10,
+            "hour": 23,
+            "amount": 27875
+        },
+        {
+            "month": 11,
+            "hour": 1,
+            "amount": 5824
+        },
+        {
+            "month": 11,
+            "hour": 2,
+            "amount": 3067
+        },
+        {
+            "month": 11,
+            "hour": 3,
+            "amount": 1964
+        },
+        {
+            "month": 11,
+            "hour": 4,
+            "amount": 2112
+        },
+        {
+            "month": 11,
+            "hour": 5,
+            "amount": 8706
+        },
+        {
+            "month": 11,
+            "hour": 6,
+            "amount": 30941
+        },
+        {
+            "month": 11,
+            "hour": 7,
+            "amount": 67872
+        },
+        {
+            "month": 11,
+            "hour": 8,
+            "amount": 118798
+        },
+        {
+            "month": 11,
+            "hour": 9,
+            "amount": 92305
+        },
+        {
+            "month": 11,
+            "hour": 10,
+            "amount": 64472
+        },
+        {
+            "month": 11,
+            "hour": 11,
+            "amount": 65416
+        },
+        {
+            "month": 11,
+            "hour": 12,
+            "amount": 75407
+        },
+        {
+            "month": 11,
+            "hour": 13,
+            "amount": 78079
+        },
+        {
+            "month": 11,
+            "hour": 14,
+            "amount": 79533
+        },
+        {
+            "month": 11,
+            "hour": 15,
+            "amount": 82324
+        },
+        {
+            "month": 11,
+            "hour": 16,
+            "amount": 92176
+        },
+        {
+            "month": 11,
+            "hour": 17,
+            "amount": 121807
+        },
+        {
+            "month": 11,
+            "hour": 18,
+            "amount": 114579
+        },
+        {
+            "month": 11,
+            "hour": 19,
+            "amount": 76891
+        },
+        {
+            "month": 11,
+            "hour": 20,
+            "amount": 53143
+        },
+        {
+            "month": 11,
+            "hour": 21,
+            "amount": 38321
+        },
+        {
+            "month": 11,
+            "hour": 22,
+            "amount": 28213
+        },
+        {
+            "month": 11,
+            "hour": 23,
+            "amount": 18191
+        },
+        {
+            "month": 12,
+            "hour": 1,
+            "amount": 4435
+        },
+        {
+            "month": 12,
+            "hour": 2,
+            "amount": 2642
+        },
+        {
+            "month": 12,
+            "hour": 3,
+            "amount": 1628
+        },
+        {
+            "month": 12,
+            "hour": 4,
+            "amount": 1838
+        },
+        {
+            "month": 12,
+            "hour": 5,
+            "amount": 6344
+        },
+        {
+            "month": 12,
+            "hour": 6,
+            "amount": 21574
+        },
+        {
+            "month": 12,
+            "hour": 7,
+            "amount": 46083
+        },
+        {
+            "month": 12,
+            "hour": 8,
+            "amount": 82514
+        },
+        {
+            "month": 12,
+            "hour": 9,
+            "amount": 65422
+        },
+        {
+            "month": 12,
+            "hour": 10,
+            "amount": 43354
+        },
+        {
+            "month": 12,
+            "hour": 11,
+            "amount": 43243
+        },
+        {
+            "month": 12,
+            "hour": 12,
+            "amount": 49249
+        },
+        {
+            "month": 12,
+            "hour": 13,
+            "amount": 51433
+        },
+        {
+            "month": 12,
+            "hour": 14,
+            "amount": 52834
+        },
+        {
+            "month": 12,
+            "hour": 15,
+            "amount": 55444
+        },
+        {
+            "month": 12,
+            "hour": 16,
+            "amount": 63054
+        },
+        {
+            "month": 12,
+            "hour": 17,
+            "amount": 80169
+        },
+        {
+            "month": 12,
+            "hour": 18,
+            "amount": 73382
+        },
+        {
+            "month": 12,
+            "hour": 19,
+            "amount": 48930
+        },
+        {
+            "month": 12,
+            "hour": 20,
+            "amount": 32968
+        },
+        {
+            "month": 12,
+            "hour": 21,
+            "amount": 23826
+        },
+        {
+            "month": 12,
+            "hour": 22,
+            "amount": 18602
+        },
+        {
+            "month": 12,
+            "hour": 23,
+            "amount": 12823
+        }
+    ],
+    "2018": [
+        {
+            "month": 1,
+            "hour": 1,
+            "amount": 2753
+        },
+        {
+            "month": 1,
+            "hour": 2,
+            "amount": 1585
+        },
+        {
+            "month": 1,
+            "hour": 3,
+            "amount": 989
+        },
+        {
+            "month": 1,
+            "hour": 4,
+            "amount": 1259
+        },
+        {
+            "month": 1,
+            "hour": 5,
+            "amount": 5505
+        },
+        {
+            "month": 1,
+            "hour": 6,
+            "amount": 17018
+        },
+        {
+            "month": 1,
+            "hour": 7,
+            "amount": 36156
+        },
+        {
+            "month": 1,
+            "hour": 8,
+            "amount": 64041
+        },
+        {
+            "month": 1,
+            "hour": 9,
+            "amount": 49092
+        },
+        {
+            "month": 1,
+            "hour": 10,
+            "amount": 31659
+        },
+        {
+            "month": 1,
+            "hour": 11,
+            "amount": 31528
+        },
+        {
+            "month": 1,
+            "hour": 12,
+            "amount": 36183
+        },
+        {
+            "month": 1,
+            "hour": 13,
+            "amount": 39309
+        },
+        {
+            "month": 1,
+            "hour": 14,
+            "amount": 42309
+        },
+        {
+            "month": 1,
+            "hour": 15,
+            "amount": 44969
+        },
+        {
+            "month": 1,
+            "hour": 16,
+            "amount": 51919
+        },
+        {
+            "month": 1,
+            "hour": 17,
+            "amount": 71400
+        },
+        {
+            "month": 1,
+            "hour": 18,
+            "amount": 67558
+        },
+        {
+            "month": 1,
+            "hour": 19,
+            "amount": 44519
+        },
+        {
+            "month": 1,
+            "hour": 20,
+            "amount": 29593
+        },
+        {
+            "month": 1,
+            "hour": 21,
+            "amount": 20314
+        },
+        {
+            "month": 1,
+            "hour": 22,
+            "amount": 15010
+        },
+        {
+            "month": 1,
+            "hour": 23,
+            "amount": 9163
+        },
+        {
+            "month": 2,
+            "hour": 1,
+            "amount": 3216
+        },
+        {
+            "month": 2,
+            "hour": 2,
+            "amount": 1810
+        },
+        {
+            "month": 2,
+            "hour": 3,
+            "amount": 1215
+        },
+        {
+            "month": 2,
+            "hour": 4,
+            "amount": 1322
+        },
+        {
+            "month": 2,
+            "hour": 5,
+            "amount": 6463
+        },
+        {
+            "month": 2,
+            "hour": 6,
+            "amount": 21820
+        },
+        {
+            "month": 2,
+            "hour": 7,
+            "amount": 46284
+        },
+        {
+            "month": 2,
+            "hour": 8,
+            "amount": 81155
+        },
+        {
+            "month": 2,
+            "hour": 9,
+            "amount": 60498
+        },
+        {
+            "month": 2,
+            "hour": 10,
+            "amount": 38844
+        },
+        {
+            "month": 2,
+            "hour": 11,
+            "amount": 39568
+        },
+        {
+            "month": 2,
+            "hour": 12,
+            "amount": 45269
+        },
+        {
+            "month": 2,
+            "hour": 13,
+            "amount": 45293
+        },
+        {
+            "month": 2,
+            "hour": 14,
+            "amount": 45798
+        },
+        {
+            "month": 2,
+            "hour": 15,
+            "amount": 47061
+        },
+        {
+            "month": 2,
+            "hour": 16,
+            "amount": 56202
+        },
+        {
+            "month": 2,
+            "hour": 17,
+            "amount": 82022
+        },
+        {
+            "month": 2,
+            "hour": 18,
+            "amount": 75892
+        },
+        {
+            "month": 2,
+            "hour": 19,
+            "amount": 51290
+        },
+        {
+            "month": 2,
+            "hour": 20,
+            "amount": 34296
+        },
+        {
+            "month": 2,
+            "hour": 21,
+            "amount": 23817
+        },
+        {
+            "month": 2,
+            "hour": 22,
+            "amount": 17264
+        },
+        {
+            "month": 2,
+            "hour": 23,
+            "amount": 10797
+        },
+        {
+            "month": 3,
+            "hour": 1,
+            "amount": 3987
+        },
+        {
+            "month": 3,
+            "hour": 2,
+            "amount": 2150
+        },
+        {
+            "month": 3,
+            "hour": 3,
+            "amount": 1555
+        },
+        {
+            "month": 3,
+            "hour": 4,
+            "amount": 1657
+        },
+        {
+            "month": 3,
+            "hour": 5,
+            "amount": 6249
+        },
+        {
+            "month": 3,
+            "hour": 6,
+            "amount": 20882
+        },
+        {
+            "month": 3,
+            "hour": 7,
+            "amount": 43985
+        },
+        {
+            "month": 3,
+            "hour": 8,
+            "amount": 82475
+        },
+        {
+            "month": 3,
+            "hour": 9,
+            "amount": 65262
+        },
+        {
+            "month": 3,
+            "hour": 10,
+            "amount": 44384
+        },
+        {
+            "month": 3,
+            "hour": 11,
+            "amount": 46862
+        },
+        {
+            "month": 3,
+            "hour": 12,
+            "amount": 55010
+        },
+        {
+            "month": 3,
+            "hour": 13,
+            "amount": 56966
+        },
+        {
+            "month": 3,
+            "hour": 14,
+            "amount": 59556
+        },
+        {
+            "month": 3,
+            "hour": 15,
+            "amount": 63158
+        },
+        {
+            "month": 3,
+            "hour": 16,
+            "amount": 71383
+        },
+        {
+            "month": 3,
+            "hour": 17,
+            "amount": 96737
+        },
+        {
+            "month": 3,
+            "hour": 18,
+            "amount": 91519
+        },
+        {
+            "month": 3,
+            "hour": 19,
+            "amount": 60307
+        },
+        {
+            "month": 3,
+            "hour": 20,
+            "amount": 38087
+        },
+        {
+            "month": 3,
+            "hour": 21,
+            "amount": 26168
+        },
+        {
+            "month": 3,
+            "hour": 22,
+            "amount": 18810
+        },
+        {
+            "month": 3,
+            "hour": 23,
+            "amount": 12304
+        },
+        {
+            "month": 4,
+            "hour": 1,
+            "amount": 5487
+        },
+        {
+            "month": 4,
+            "hour": 2,
+            "amount": 3101
+        },
+        {
+            "month": 4,
+            "hour": 3,
+            "amount": 1810
+        },
+        {
+            "month": 4,
+            "hour": 4,
+            "amount": 1881
+        },
+        {
+            "month": 4,
+            "hour": 5,
+            "amount": 7413
+        },
+        {
+            "month": 4,
+            "hour": 6,
+            "amount": 25057
+        },
+        {
+            "month": 4,
+            "hour": 7,
+            "amount": 54481
+        },
+        {
+            "month": 4,
+            "hour": 8,
+            "amount": 95321
+        },
+        {
+            "month": 4,
+            "hour": 9,
+            "amount": 79949
+        },
+        {
+            "month": 4,
+            "hour": 10,
+            "amount": 59376
+        },
+        {
+            "month": 4,
+            "hour": 11,
+            "amount": 62945
+        },
+        {
+            "month": 4,
+            "hour": 12,
+            "amount": 75141
+        },
+        {
+            "month": 4,
+            "hour": 13,
+            "amount": 78564
+        },
+        {
+            "month": 4,
+            "hour": 14,
+            "amount": 81893
+        },
+        {
+            "month": 4,
+            "hour": 15,
+            "amount": 85982
+        },
+        {
+            "month": 4,
+            "hour": 16,
+            "amount": 99635
+        },
+        {
+            "month": 4,
+            "hour": 17,
+            "amount": 133637
+        },
+        {
+            "month": 4,
+            "hour": 18,
+            "amount": 127587
+        },
+        {
+            "month": 4,
+            "hour": 19,
+            "amount": 85206
+        },
+        {
+            "month": 4,
+            "hour": 20,
+            "amount": 52963
+        },
+        {
+            "month": 4,
+            "hour": 21,
+            "amount": 36933
+        },
+        {
+            "month": 4,
+            "hour": 22,
+            "amount": 26222
+        },
+        {
+            "month": 4,
+            "hour": 23,
+            "amount": 17231
+        },
+        {
+            "month": 5,
+            "hour": 1,
+            "amount": 8794
+        },
+        {
+            "month": 5,
+            "hour": 2,
+            "amount": 5156
+        },
+        {
+            "month": 5,
+            "hour": 3,
+            "amount": 3024
+        },
+        {
+            "month": 5,
+            "hour": 4,
+            "amount": 3172
+        },
+        {
+            "month": 5,
+            "hour": 5,
+            "amount": 11610
+        },
+        {
+            "month": 5,
+            "hour": 6,
+            "amount": 41054
+        },
+        {
+            "month": 5,
+            "hour": 7,
+            "amount": 89187
+        },
+        {
+            "month": 5,
+            "hour": 8,
+            "amount": 153333
+        },
+        {
+            "month": 5,
+            "hour": 9,
+            "amount": 115213
+        },
+        {
+            "month": 5,
+            "hour": 10,
+            "amount": 77559
+        },
+        {
+            "month": 5,
+            "hour": 11,
+            "amount": 82078
+        },
+        {
+            "month": 5,
+            "hour": 12,
+            "amount": 93192
+        },
+        {
+            "month": 5,
+            "hour": 13,
+            "amount": 97015
+        },
+        {
+            "month": 5,
+            "hour": 14,
+            "amount": 101732
+        },
+        {
+            "month": 5,
+            "hour": 15,
+            "amount": 108766
+        },
+        {
+            "month": 5,
+            "hour": 16,
+            "amount": 130690
+        },
+        {
+            "month": 5,
+            "hour": 17,
+            "amount": 181755
+        },
+        {
+            "month": 5,
+            "hour": 18,
+            "amount": 175123
+        },
+        {
+            "month": 5,
+            "hour": 19,
+            "amount": 121793
+        },
+        {
+            "month": 5,
+            "hour": 20,
+            "amount": 83349
+        },
+        {
+            "month": 5,
+            "hour": 21,
+            "amount": 55771
+        },
+        {
+            "month": 5,
+            "hour": 22,
+            "amount": 41475
+        },
+        {
+            "month": 5,
+            "hour": 23,
+            "amount": 28161
+        },
+        {
+            "month": 6,
+            "hour": 1,
+            "amount": 10067
+        },
+        {
+            "month": 6,
+            "hour": 2,
+            "amount": 5993
+        },
+        {
+            "month": 6,
+            "hour": 3,
+            "amount": 3810
+        },
+        {
+            "month": 6,
+            "hour": 4,
+            "amount": 3469
+        },
+        {
+            "month": 6,
+            "hour": 5,
+            "amount": 11958
+        },
+        {
+            "month": 6,
+            "hour": 6,
+            "amount": 39661
+        },
+        {
+            "month": 6,
+            "hour": 7,
+            "amount": 81101
+        },
+        {
+            "month": 6,
+            "hour": 8,
+            "amount": 144059
+        },
+        {
+            "month": 6,
+            "hour": 9,
+            "amount": 119091
+        },
+        {
+            "month": 6,
+            "hour": 10,
+            "amount": 86645
+        },
+        {
+            "month": 6,
+            "hour": 11,
+            "amount": 90387
+        },
+        {
+            "month": 6,
+            "hour": 12,
+            "amount": 103258
+        },
+        {
+            "month": 6,
+            "hour": 13,
+            "amount": 109904
+        },
+        {
+            "month": 6,
+            "hour": 14,
+            "amount": 109586
+        },
+        {
+            "month": 6,
+            "hour": 15,
+            "amount": 115179
+        },
+        {
+            "month": 6,
+            "hour": 16,
+            "amount": 139905
+        },
+        {
+            "month": 6,
+            "hour": 17,
+            "amount": 192558
+        },
+        {
+            "month": 6,
+            "hour": 18,
+            "amount": 188170
+        },
+        {
+            "month": 6,
+            "hour": 19,
+            "amount": 136821
+        },
+        {
+            "month": 6,
+            "hour": 20,
+            "amount": 96407
+        },
+        {
+            "month": 6,
+            "hour": 21,
+            "amount": 65212
+        },
+        {
+            "month": 6,
+            "hour": 22,
+            "amount": 49089
+        },
+        {
+            "month": 6,
+            "hour": 23,
+            "amount": 32621
+        },
+        {
+            "month": 7,
+            "hour": 1,
+            "amount": 10408
+        },
+        {
+            "month": 7,
+            "hour": 2,
+            "amount": 6133
+        },
+        {
+            "month": 7,
+            "hour": 3,
+            "amount": 3605
+        },
+        {
+            "month": 7,
+            "hour": 4,
+            "amount": 3762
+        },
+        {
+            "month": 7,
+            "hour": 5,
+            "amount": 11968
+        },
+        {
+            "month": 7,
+            "hour": 6,
+            "amount": 39141
+        },
+        {
+            "month": 7,
+            "hour": 7,
+            "amount": 78582
+        },
+        {
+            "month": 7,
+            "hour": 8,
+            "amount": 139061
+        },
+        {
+            "month": 7,
+            "hour": 9,
+            "amount": 114979
+        },
+        {
+            "month": 7,
+            "hour": 10,
+            "amount": 85132
+        },
+        {
+            "month": 7,
+            "hour": 11,
+            "amount": 89023
+        },
+        {
+            "month": 7,
+            "hour": 12,
+            "amount": 102709
+        },
+        {
+            "month": 7,
+            "hour": 13,
+            "amount": 111670
+        },
+        {
+            "month": 7,
+            "hour": 14,
+            "amount": 110872
+        },
+        {
+            "month": 7,
+            "hour": 15,
+            "amount": 115281
+        },
+        {
+            "month": 7,
+            "hour": 16,
+            "amount": 135976
+        },
+        {
+            "month": 7,
+            "hour": 17,
+            "amount": 182183
+        },
+        {
+            "month": 7,
+            "hour": 18,
+            "amount": 174433
+        },
+        {
+            "month": 7,
+            "hour": 19,
+            "amount": 133067
+        },
+        {
+            "month": 7,
+            "hour": 20,
+            "amount": 95905
+        },
+        {
+            "month": 7,
+            "hour": 21,
+            "amount": 67082
+        },
+        {
+            "month": 7,
+            "hour": 22,
+            "amount": 51148
+        },
+        {
+            "month": 7,
+            "hour": 23,
+            "amount": 32905
+        },
+        {
+            "month": 8,
+            "hour": 1,
+            "amount": 10537
+        },
+        {
+            "month": 8,
+            "hour": 2,
+            "amount": 6202
+        },
+        {
+            "month": 8,
+            "hour": 3,
+            "amount": 3982
+        },
+        {
+            "month": 8,
+            "hour": 4,
+            "amount": 4009
+        },
+        {
+            "month": 8,
+            "hour": 5,
+            "amount": 12772
+        },
+        {
+            "month": 8,
+            "hour": 6,
+            "amount": 44970
+        },
+        {
+            "month": 8,
+            "hour": 7,
+            "amount": 87471
+        },
+        {
+            "month": 8,
+            "hour": 8,
+            "amount": 153233
+        },
+        {
+            "month": 8,
+            "hour": 9,
+            "amount": 118870
+        },
+        {
+            "month": 8,
+            "hour": 10,
+            "amount": 82904
+        },
+        {
+            "month": 8,
+            "hour": 11,
+            "amount": 89604
+        },
+        {
+            "month": 8,
+            "hour": 12,
+            "amount": 103969
+        },
+        {
+            "month": 8,
+            "hour": 13,
+            "amount": 108032
+        },
+        {
+            "month": 8,
+            "hour": 14,
+            "amount": 106042
+        },
+        {
+            "month": 8,
+            "hour": 15,
+            "amount": 112382
+        },
+        {
+            "month": 8,
+            "hour": 16,
+            "amount": 135993
+        },
+        {
+            "month": 8,
+            "hour": 17,
+            "amount": 196842
+        },
+        {
+            "month": 8,
+            "hour": 18,
+            "amount": 196499
+        },
+        {
+            "month": 8,
+            "hour": 19,
+            "amount": 139812
+        },
+        {
+            "month": 8,
+            "hour": 20,
+            "amount": 94377
+        },
+        {
+            "month": 8,
+            "hour": 21,
+            "amount": 66802
+        },
+        {
+            "month": 8,
+            "hour": 22,
+            "amount": 50441
+        },
+        {
+            "month": 8,
+            "hour": 23,
+            "amount": 32881
+        },
+        {
+            "month": 9,
+            "hour": 1,
+            "amount": 11019
+        },
+        {
+            "month": 9,
+            "hour": 2,
+            "amount": 6852
+        },
+        {
+            "month": 9,
+            "hour": 3,
+            "amount": 4207
+        },
+        {
+            "month": 9,
+            "hour": 4,
+            "amount": 3908
+        },
+        {
+            "month": 9,
+            "hour": 5,
+            "amount": 10545
+        },
+        {
+            "month": 9,
+            "hour": 6,
+            "amount": 35725
+        },
+        {
+            "month": 9,
+            "hour": 7,
+            "amount": 78010
+        },
+        {
+            "month": 9,
+            "hour": 8,
+            "amount": 134427
+        },
+        {
+            "month": 9,
+            "hour": 9,
+            "amount": 109849
+        },
+        {
+            "month": 9,
+            "hour": 10,
+            "amount": 86545
+        },
+        {
+            "month": 9,
+            "hour": 11,
+            "amount": 94987
+        },
+        {
+            "month": 9,
+            "hour": 12,
+            "amount": 107889
+        },
+        {
+            "month": 9,
+            "hour": 13,
+            "amount": 110766
+        },
+        {
+            "month": 9,
+            "hour": 14,
+            "amount": 113595
+        },
+        {
+            "month": 9,
+            "hour": 15,
+            "amount": 121207
+        },
+        {
+            "month": 9,
+            "hour": 16,
+            "amount": 135043
+        },
+        {
+            "month": 9,
+            "hour": 17,
+            "amount": 182812
+        },
+        {
+            "month": 9,
+            "hour": 18,
+            "amount": 172832
+        },
+        {
+            "month": 9,
+            "hour": 19,
+            "amount": 119668
+        },
+        {
+            "month": 9,
+            "hour": 20,
+            "amount": 81885
+        },
+        {
+            "month": 9,
+            "hour": 21,
+            "amount": 59680
+        },
+        {
+            "month": 9,
+            "hour": 22,
+            "amount": 45427
+        },
+        {
+            "month": 9,
+            "hour": 23,
+            "amount": 31680
+        },
+        {
+            "month": 10,
+            "hour": 1,
+            "amount": 8639
+        },
+        {
+            "month": 10,
+            "hour": 2,
+            "amount": 4902
+        },
+        {
+            "month": 10,
+            "hour": 3,
+            "amount": 3023
+        },
+        {
+            "month": 10,
+            "hour": 4,
+            "amount": 3540
+        },
+        {
+            "month": 10,
+            "hour": 5,
+            "amount": 12243
+        },
+        {
+            "month": 10,
+            "hour": 6,
+            "amount": 42556
+        },
+        {
+            "month": 10,
+            "hour": 7,
+            "amount": 94353
+        },
+        {
+            "month": 10,
+            "hour": 8,
+            "amount": 160995
+        },
+        {
+            "month": 10,
+            "hour": 9,
+            "amount": 119738
+        },
+        {
+            "month": 10,
+            "hour": 10,
+            "amount": 80734
+        },
+        {
+            "month": 10,
+            "hour": 11,
+            "amount": 82547
+        },
+        {
+            "month": 10,
+            "hour": 12,
+            "amount": 98648
+        },
+        {
+            "month": 10,
+            "hour": 13,
+            "amount": 103785
+        },
+        {
+            "month": 10,
+            "hour": 14,
+            "amount": 108213
+        },
+        {
+            "month": 10,
+            "hour": 15,
+            "amount": 115605
+        },
+        {
+            "month": 10,
+            "hour": 16,
+            "amount": 137066
+        },
+        {
+            "month": 10,
+            "hour": 17,
+            "amount": 190885
+        },
+        {
+            "month": 10,
+            "hour": 18,
+            "amount": 176356
+        },
+        {
+            "month": 10,
+            "hour": 19,
+            "amount": 114884
+        },
+        {
+            "month": 10,
+            "hour": 20,
+            "amount": 77882
+        },
+        {
+            "month": 10,
+            "hour": 21,
+            "amount": 57806
+        },
+        {
+            "month": 10,
+            "hour": 22,
+            "amount": 41643
+        },
+        {
+            "month": 10,
+            "hour": 23,
+            "amount": 27391
+        },
+        {
+            "month": 11,
+            "hour": 1,
+            "amount": 5291
+        },
+        {
+            "month": 11,
+            "hour": 2,
+            "amount": 3076
+        },
+        {
+            "month": 11,
+            "hour": 3,
+            "amount": 1902
+        },
+        {
+            "month": 11,
+            "hour": 4,
+            "amount": 2524
+        },
+        {
+            "month": 11,
+            "hour": 5,
+            "amount": 9098
+        },
+        {
+            "month": 11,
+            "hour": 6,
+            "amount": 31562
+        },
+        {
+            "month": 11,
+            "hour": 7,
+            "amount": 68204
+        },
+        {
+            "month": 11,
+            "hour": 8,
+            "amount": 115928
+        },
+        {
+            "month": 11,
+            "hour": 9,
+            "amount": 89770
+        },
+        {
+            "month": 11,
+            "hour": 10,
+            "amount": 61690
+        },
+        {
+            "month": 11,
+            "hour": 11,
+            "amount": 63822
+        },
+        {
+            "month": 11,
+            "hour": 12,
+            "amount": 74180
+        },
+        {
+            "month": 11,
+            "hour": 13,
+            "amount": 76104
+        },
+        {
+            "month": 11,
+            "hour": 14,
+            "amount": 77059
+        },
+        {
+            "month": 11,
+            "hour": 15,
+            "amount": 77402
+        },
+        {
+            "month": 11,
+            "hour": 16,
+            "amount": 87261
+        },
+        {
+            "month": 11,
+            "hour": 17,
+            "amount": 109622
+        },
+        {
+            "month": 11,
+            "hour": 18,
+            "amount": 101236
+        },
+        {
+            "month": 11,
+            "hour": 19,
+            "amount": 68876
+        },
+        {
+            "month": 11,
+            "hour": 20,
+            "amount": 47359
+        },
+        {
+            "month": 11,
+            "hour": 21,
+            "amount": 35202
+        },
+        {
+            "month": 11,
+            "hour": 22,
+            "amount": 25795
+        },
+        {
+            "month": 11,
+            "hour": 23,
+            "amount": 17420
+        },
+        {
+            "month": 12,
+            "hour": 1,
+            "amount": 5655
+        },
+        {
+            "month": 12,
+            "hour": 2,
+            "amount": 3185
+        },
+        {
+            "month": 12,
+            "hour": 3,
+            "amount": 2006
+        },
+        {
+            "month": 12,
+            "hour": 4,
+            "amount": 2260
+        },
+        {
+            "month": 12,
+            "hour": 5,
+            "amount": 7405
+        },
+        {
+            "month": 12,
+            "hour": 6,
+            "amount": 23387
+        },
+        {
+            "month": 12,
+            "hour": 7,
+            "amount": 49952
+        },
+        {
+            "month": 12,
+            "hour": 8,
+            "amount": 88646
+        },
+        {
+            "month": 12,
+            "hour": 9,
+            "amount": 69566
+        },
+        {
+            "month": 12,
+            "hour": 10,
+            "amount": 50593
+        },
+        {
+            "month": 12,
+            "hour": 11,
+            "amount": 53181
+        },
+        {
+            "month": 12,
+            "hour": 12,
+            "amount": 61116
+        },
+        {
+            "month": 12,
+            "hour": 13,
+            "amount": 63401
+        },
+        {
+            "month": 12,
+            "hour": 14,
+            "amount": 63036
+        },
+        {
+            "month": 12,
+            "hour": 15,
+            "amount": 66029
+        },
+        {
+            "month": 12,
+            "hour": 16,
+            "amount": 71725
+        },
+        {
+            "month": 12,
+            "hour": 17,
+            "amount": 86652
+        },
+        {
+            "month": 12,
+            "hour": 18,
+            "amount": 78809
+        },
+        {
+            "month": 12,
+            "hour": 19,
+            "amount": 55033
+        },
+        {
+            "month": 12,
+            "hour": 20,
+            "amount": 38107
+        },
+        {
+            "month": 12,
+            "hour": 21,
+            "amount": 28943
+        },
+        {
+            "month": 12,
+            "hour": 22,
+            "amount": 22443
+        },
+        {
+            "month": 12,
+            "hour": 23,
+            "amount": 15406
+        }
+    ],
+    "2019": [
+        {
+            "month": 1,
+            "hour": 1,
+            "amount": 3911
+        },
+        {
+            "month": 1,
+            "hour": 2,
+            "amount": 2338
+        },
+        {
+            "month": 1,
+            "hour": 3,
+            "amount": 1581
+        },
+        {
+            "month": 1,
+            "hour": 4,
+            "amount": 2170
+        },
+        {
+            "month": 1,
+            "hour": 5,
+            "amount": 8065
+        },
+        {
+            "month": 1,
+            "hour": 6,
+            "amount": 24860
+        },
+        {
+            "month": 1,
+            "hour": 7,
+            "amount": 51692
+        },
+        {
+            "month": 1,
+            "hour": 8,
+            "amount": 90293
+        },
+        {
+            "month": 1,
+            "hour": 9,
+            "amount": 67969
+        },
+        {
+            "month": 1,
+            "hour": 10,
+            "amount": 43634
+        },
+        {
+            "month": 1,
+            "hour": 11,
+            "amount": 43649
+        },
+        {
+            "month": 1,
+            "hour": 12,
+            "amount": 51404
+        },
+        {
+            "month": 1,
+            "hour": 13,
+            "amount": 54623
+        },
+        {
+            "month": 1,
+            "hour": 14,
+            "amount": 56279
+        },
+        {
+            "month": 1,
+            "hour": 15,
+            "amount": 57896
+        },
+        {
+            "month": 1,
+            "hour": 16,
+            "amount": 67182
+        },
+        {
+            "month": 1,
+            "hour": 17,
+            "amount": 93838
+        },
+        {
+            "month": 1,
+            "hour": 18,
+            "amount": 86242
+        },
+        {
+            "month": 1,
+            "hour": 19,
+            "amount": 57426
+        },
+        {
+            "month": 1,
+            "hour": 20,
+            "amount": 38405
+        },
+        {
+            "month": 1,
+            "hour": 21,
+            "amount": 26542
+        },
+        {
+            "month": 1,
+            "hour": 22,
+            "amount": 19098
+        },
+        {
+            "month": 1,
+            "hour": 23,
+            "amount": 11521
+        },
+        {
+            "month": 2,
+            "hour": 1,
+            "amount": 3505
+        },
+        {
+            "month": 2,
+            "hour": 2,
+            "amount": 1997
+        },
+        {
+            "month": 2,
+            "hour": 3,
+            "amount": 1252
+        },
+        {
+            "month": 2,
+            "hour": 4,
+            "amount": 1990
+        },
+        {
+            "month": 2,
+            "hour": 5,
+            "amount": 7148
+        },
+        {
+            "month": 2,
+            "hour": 6,
+            "amount": 23075
+        },
+        {
+            "month": 2,
+            "hour": 7,
+            "amount": 48399
+        },
+        {
+            "month": 2,
+            "hour": 8,
+            "amount": 85625
+        },
+        {
+            "month": 2,
+            "hour": 9,
+            "amount": 65431
+        },
+        {
+            "month": 2,
+            "hour": 10,
+            "amount": 43532
+        },
+        {
+            "month": 2,
+            "hour": 11,
+            "amount": 44560
+        },
+        {
+            "month": 2,
+            "hour": 12,
+            "amount": 51429
+        },
+        {
+            "month": 2,
+            "hour": 13,
+            "amount": 53780
+        },
+        {
+            "month": 2,
+            "hour": 14,
+            "amount": 55431
+        },
+        {
+            "month": 2,
+            "hour": 15,
+            "amount": 59376
+        },
+        {
+            "month": 2,
+            "hour": 16,
+            "amount": 68833
+        },
+        {
+            "month": 2,
+            "hour": 17,
+            "amount": 93450
+        },
+        {
+            "month": 2,
+            "hour": 18,
+            "amount": 81681
+        },
+        {
+            "month": 2,
+            "hour": 19,
+            "amount": 54360
+        },
+        {
+            "month": 2,
+            "hour": 20,
+            "amount": 36256
+        },
+        {
+            "month": 2,
+            "hour": 21,
+            "amount": 25395
+        },
+        {
+            "month": 2,
+            "hour": 22,
+            "amount": 19125
+        },
+        {
+            "month": 2,
+            "hour": 23,
+            "amount": 11751
+        },
+        {
+            "month": 3,
+            "hour": 1,
+            "amount": 5748
+        },
+        {
+            "month": 3,
+            "hour": 2,
+            "amount": 3257
+        },
+        {
+            "month": 3,
+            "hour": 3,
+            "amount": 2219
+        },
+        {
+            "month": 3,
+            "hour": 4,
+            "amount": 2545
+        },
+        {
+            "month": 3,
+            "hour": 5,
+            "amount": 8282
+        },
+        {
+            "month": 3,
+            "hour": 6,
+            "amount": 26397
+        },
+        {
+            "month": 3,
+            "hour": 7,
+            "amount": 56079
+        },
+        {
+            "month": 3,
+            "hour": 8,
+            "amount": 103341
+        },
+        {
+            "month": 3,
+            "hour": 9,
+            "amount": 86459
+        },
+        {
+            "month": 3,
+            "hour": 10,
+            "amount": 60762
+        },
+        {
+            "month": 3,
+            "hour": 11,
+            "amount": 62407
+        },
+        {
+            "month": 3,
+            "hour": 12,
+            "amount": 73310
+        },
+        {
+            "month": 3,
+            "hour": 13,
+            "amount": 78378
+        },
+        {
+            "month": 3,
+            "hour": 14,
+            "amount": 81113
+        },
+        {
+            "month": 3,
+            "hour": 15,
+            "amount": 86477
+        },
+        {
+            "month": 3,
+            "hour": 16,
+            "amount": 98798
+        },
+        {
+            "month": 3,
+            "hour": 17,
+            "amount": 135995
+        },
+        {
+            "month": 3,
+            "hour": 18,
+            "amount": 126746
+        },
+        {
+            "month": 3,
+            "hour": 19,
+            "amount": 83448
+        },
+        {
+            "month": 3,
+            "hour": 20,
+            "amount": 54818
+        },
+        {
+            "month": 3,
+            "hour": 21,
+            "amount": 36611
+        },
+        {
+            "month": 3,
+            "hour": 22,
+            "amount": 26644
+        },
+        {
+            "month": 3,
+            "hour": 23,
+            "amount": 17756
+        },
+        {
+            "month": 4,
+            "hour": 1,
+            "amount": 6808
+        },
+        {
+            "month": 4,
+            "hour": 2,
+            "amount": 4171
+        },
+        {
+            "month": 4,
+            "hour": 3,
+            "amount": 2649
+        },
+        {
+            "month": 4,
+            "hour": 4,
+            "amount": 3088
+        },
+        {
+            "month": 4,
+            "hour": 5,
+            "amount": 10434
+        },
+        {
+            "month": 4,
+            "hour": 6,
+            "amount": 36085
+        },
+        {
+            "month": 4,
+            "hour": 7,
+            "amount": 79110
+        },
+        {
+            "month": 4,
+            "hour": 8,
+            "amount": 142579
+        },
+        {
+            "month": 4,
+            "hour": 9,
+            "amount": 115306
+        },
+        {
+            "month": 4,
+            "hour": 10,
+            "amount": 81119
+        },
+        {
+            "month": 4,
+            "hour": 11,
+            "amount": 83079
+        },
+        {
+            "month": 4,
+            "hour": 12,
+            "amount": 97246
+        },
+        {
+            "month": 4,
+            "hour": 13,
+            "amount": 103107
+        },
+        {
+            "month": 4,
+            "hour": 14,
+            "amount": 107802
+        },
+        {
+            "month": 4,
+            "hour": 15,
+            "amount": 113933
+        },
+        {
+            "month": 4,
+            "hour": 16,
+            "amount": 128006
+        },
+        {
+            "month": 4,
+            "hour": 17,
+            "amount": 177669
+        },
+        {
+            "month": 4,
+            "hour": 18,
+            "amount": 169043
+        },
+        {
+            "month": 4,
+            "hour": 19,
+            "amount": 111496
+        },
+        {
+            "month": 4,
+            "hour": 20,
+            "amount": 71290
+        },
+        {
+            "month": 4,
+            "hour": 21,
+            "amount": 48855
+        },
+        {
+            "month": 4,
+            "hour": 22,
+            "amount": 37116
+        },
+        {
+            "month": 4,
+            "hour": 23,
+            "amount": 23746
+        },
+        {
+            "month": 5,
+            "hour": 1,
+            "amount": 8316
+        },
+        {
+            "month": 5,
+            "hour": 2,
+            "amount": 5015
+        },
+        {
+            "month": 5,
+            "hour": 3,
+            "amount": 3217
+        },
+        {
+            "month": 5,
+            "hour": 4,
+            "amount": 3681
+        },
+        {
+            "month": 5,
+            "hour": 5,
+            "amount": 12998
+        },
+        {
+            "month": 5,
+            "hour": 6,
+            "amount": 42190
+        },
+        {
+            "month": 5,
+            "hour": 7,
+            "amount": 88678
+        },
+        {
+            "month": 5,
+            "hour": 8,
+            "amount": 152533
+        },
+        {
+            "month": 5,
+            "hour": 9,
+            "amount": 120887
+        },
+        {
+            "month": 5,
+            "hour": 10,
+            "amount": 85640
+        },
+        {
+            "month": 5,
+            "hour": 11,
+            "amount": 89038
+        },
+        {
+            "month": 5,
+            "hour": 12,
+            "amount": 103995
+        },
+        {
+            "month": 5,
+            "hour": 13,
+            "amount": 108343
+        },
+        {
+            "month": 5,
+            "hour": 14,
+            "amount": 115452
+        },
+        {
+            "month": 5,
+            "hour": 15,
+            "amount": 124996
+        },
+        {
+            "month": 5,
+            "hour": 16,
+            "amount": 143096
+        },
+        {
+            "month": 5,
+            "hour": 17,
+            "amount": 192887
+        },
+        {
+            "month": 5,
+            "hour": 18,
+            "amount": 174001
+        },
+        {
+            "month": 5,
+            "hour": 19,
+            "amount": 124915
+        },
+        {
+            "month": 5,
+            "hour": 20,
+            "amount": 82898
+        },
+        {
+            "month": 5,
+            "hour": 21,
+            "amount": 54006
+        },
+        {
+            "month": 5,
+            "hour": 22,
+            "amount": 42302
+        },
+        {
+            "month": 5,
+            "hour": 23,
+            "amount": 29804
+        },
+        {
+            "month": 6,
+            "hour": 1,
+            "amount": 13107
+        },
+        {
+            "month": 6,
+            "hour": 2,
+            "amount": 8110
+        },
+        {
+            "month": 6,
+            "hour": 3,
+            "amount": 4965
+        },
+        {
+            "month": 6,
+            "hour": 4,
+            "amount": 4843
+        },
+        {
+            "month": 6,
+            "hour": 5,
+            "amount": 13135
+        },
+        {
+            "month": 6,
+            "hour": 6,
+            "amount": 40021
+        },
+        {
+            "month": 6,
+            "hour": 7,
+            "amount": 81989
+        },
+        {
+            "month": 6,
+            "hour": 8,
+            "amount": 139140
+        },
+        {
+            "month": 6,
+            "hour": 9,
+            "amount": 121502
+        },
+        {
+            "month": 6,
+            "hour": 10,
+            "amount": 95057
+        },
+        {
+            "month": 6,
+            "hour": 11,
+            "amount": 102544
+        },
+        {
+            "month": 6,
+            "hour": 12,
+            "amount": 116371
+        },
+        {
+            "month": 6,
+            "hour": 13,
+            "amount": 122442
+        },
+        {
+            "month": 6,
+            "hour": 14,
+            "amount": 126711
+        },
+        {
+            "month": 6,
+            "hour": 15,
+            "amount": 131016
+        },
+        {
+            "month": 6,
+            "hour": 16,
+            "amount": 151135
+        },
+        {
+            "month": 6,
+            "hour": 17,
+            "amount": 203443
+        },
+        {
+            "month": 6,
+            "hour": 18,
+            "amount": 198398
+        },
+        {
+            "month": 6,
+            "hour": 19,
+            "amount": 149940
+        },
+        {
+            "month": 6,
+            "hour": 20,
+            "amount": 110552
+        },
+        {
+            "month": 6,
+            "hour": 21,
+            "amount": 74760
+        },
+        {
+            "month": 6,
+            "hour": 22,
+            "amount": 55416
+        },
+        {
+            "month": 6,
+            "hour": 23,
+            "amount": 37446
+        },
+        {
+            "month": 7,
+            "hour": 1,
+            "amount": 13806
+        },
+        {
+            "month": 7,
+            "hour": 2,
+            "amount": 8302
+        },
+        {
+            "month": 7,
+            "hour": 3,
+            "amount": 5249
+        },
+        {
+            "month": 7,
+            "hour": 4,
+            "amount": 5184
+        },
+        {
+            "month": 7,
+            "hour": 5,
+            "amount": 14830
+        },
+        {
+            "month": 7,
+            "hour": 6,
+            "amount": 47284
+        },
+        {
+            "month": 7,
+            "hour": 7,
+            "amount": 94900
+        },
+        {
+            "month": 7,
+            "hour": 8,
+            "amount": 159449
+        },
+        {
+            "month": 7,
+            "hour": 9,
+            "amount": 132023
+        },
+        {
+            "month": 7,
+            "hour": 10,
+            "amount": 94239
+        },
+        {
+            "month": 7,
+            "hour": 11,
+            "amount": 97714
+        },
+        {
+            "month": 7,
+            "hour": 12,
+            "amount": 113005
+        },
+        {
+            "month": 7,
+            "hour": 13,
+            "amount": 118244
+        },
+        {
+            "month": 7,
+            "hour": 14,
+            "amount": 118901
+        },
+        {
+            "month": 7,
+            "hour": 15,
+            "amount": 122724
+        },
+        {
+            "month": 7,
+            "hour": 16,
+            "amount": 145347
+        },
+        {
+            "month": 7,
+            "hour": 17,
+            "amount": 208583
+        },
+        {
+            "month": 7,
+            "hour": 18,
+            "amount": 206587
+        },
+        {
+            "month": 7,
+            "hour": 19,
+            "amount": 155928
+        },
+        {
+            "month": 7,
+            "hour": 20,
+            "amount": 113439
+        },
+        {
+            "month": 7,
+            "hour": 21,
+            "amount": 79936
+        },
+        {
+            "month": 7,
+            "hour": 22,
+            "amount": 61667
+        },
+        {
+            "month": 7,
+            "hour": 23,
+            "amount": 40274
+        },
+        {
+            "month": 8,
+            "hour": 1,
+            "amount": 14191
+        },
+        {
+            "month": 8,
+            "hour": 2,
+            "amount": 9063
+        },
+        {
+            "month": 8,
+            "hour": 3,
+            "amount": 5567
+        },
+        {
+            "month": 8,
+            "hour": 4,
+            "amount": 5373
+        },
+        {
+            "month": 8,
+            "hour": 5,
+            "amount": 15418
+        },
+        {
+            "month": 8,
+            "hour": 6,
+            "amount": 50346
+        },
+        {
+            "month": 8,
+            "hour": 7,
+            "amount": 98959
+        },
+        {
+            "month": 8,
+            "hour": 8,
+            "amount": 170730
+        },
+        {
+            "month": 8,
+            "hour": 9,
+            "amount": 142680
+        },
+        {
+            "month": 8,
+            "hour": 10,
+            "amount": 105681
+        },
+        {
+            "month": 8,
+            "hour": 11,
+            "amount": 114905
+        },
+        {
+            "month": 8,
+            "hour": 12,
+            "amount": 128573
+        },
+        {
+            "month": 8,
+            "hour": 13,
+            "amount": 129139
+        },
+        {
+            "month": 8,
+            "hour": 14,
+            "amount": 132116
+        },
+        {
+            "month": 8,
+            "hour": 15,
+            "amount": 140283
+        },
+        {
+            "month": 8,
+            "hour": 16,
+            "amount": 162154
+        },
+        {
+            "month": 8,
+            "hour": 17,
+            "amount": 224566
+        },
+        {
+            "month": 8,
+            "hour": 18,
+            "amount": 215783
+        },
+        {
+            "month": 8,
+            "hour": 19,
+            "amount": 164618
+        },
+        {
+            "month": 8,
+            "hour": 20,
+            "amount": 110451
+        },
+        {
+            "month": 8,
+            "hour": 21,
+            "amount": 78525
+        },
+        {
+            "month": 8,
+            "hour": 22,
+            "amount": 60156
+        },
+        {
+            "month": 8,
+            "hour": 23,
+            "amount": 40743
+        },
+        {
+            "month": 9,
+            "hour": 1,
+            "amount": 13537
+        },
+        {
+            "month": 9,
+            "hour": 2,
+            "amount": 8416
+        },
+        {
+            "month": 9,
+            "hour": 3,
+            "amount": 5543
+        },
+        {
+            "month": 9,
+            "hour": 4,
+            "amount": 5539
+        },
+        {
+            "month": 9,
+            "hour": 5,
+            "amount": 16096
+        },
+        {
+            "month": 9,
+            "hour": 6,
+            "amount": 50647
+        },
+        {
+            "month": 9,
+            "hour": 7,
+            "amount": 110758
+        },
+        {
+            "month": 9,
+            "hour": 8,
+            "amount": 189034
+        },
+        {
+            "month": 9,
+            "hour": 9,
+            "amount": 147276
+        },
+        {
+            "month": 9,
+            "hour": 10,
+            "amount": 110499
+        },
+        {
+            "month": 9,
+            "hour": 11,
+            "amount": 115637
+        },
+        {
+            "month": 9,
+            "hour": 12,
+            "amount": 132997
+        },
+        {
+            "month": 9,
+            "hour": 13,
+            "amount": 136958
+        },
+        {
+            "month": 9,
+            "hour": 14,
+            "amount": 140905
+        },
+        {
+            "month": 9,
+            "hour": 15,
+            "amount": 147334
+        },
+        {
+            "month": 9,
+            "hour": 16,
+            "amount": 170801
+        },
+        {
+            "month": 9,
+            "hour": 17,
+            "amount": 245732
+        },
+        {
+            "month": 9,
+            "hour": 18,
+            "amount": 235855
+        },
+        {
+            "month": 9,
+            "hour": 19,
+            "amount": 157932
+        },
+        {
+            "month": 9,
+            "hour": 20,
+            "amount": 106031
+        },
+        {
+            "month": 9,
+            "hour": 21,
+            "amount": 77401
+        },
+        {
+            "month": 9,
+            "hour": 22,
+            "amount": 57845
+        },
+        {
+            "month": 9,
+            "hour": 23,
+            "amount": 38757
+        },
+        {
+            "month": 10,
+            "hour": 1,
+            "amount": 10689
+        },
+        {
+            "month": 10,
+            "hour": 2,
+            "amount": 6404
+        },
+        {
+            "month": 10,
+            "hour": 3,
+            "amount": 4279
+        },
+        {
+            "month": 10,
+            "hour": 4,
+            "amount": 4701
+        },
+        {
+            "month": 10,
+            "hour": 5,
+            "amount": 15482
+        },
+        {
+            "month": 10,
+            "hour": 6,
+            "amount": 46784
+        },
+        {
+            "month": 10,
+            "hour": 7,
+            "amount": 103407
+        },
+        {
+            "month": 10,
+            "hour": 8,
+            "amount": 183880
+        },
+        {
+            "month": 10,
+            "hour": 9,
+            "amount": 139884
+        },
+        {
+            "month": 10,
+            "hour": 10,
+            "amount": 94687
+        },
+        {
+            "month": 10,
+            "hour": 11,
+            "amount": 95844
+        },
+        {
+            "month": 10,
+            "hour": 12,
+            "amount": 110030
+        },
+        {
+            "month": 10,
+            "hour": 13,
+            "amount": 112928
+        },
+        {
+            "month": 10,
+            "hour": 14,
+            "amount": 117658
+        },
+        {
+            "month": 10,
+            "hour": 15,
+            "amount": 126884
+        },
+        {
+            "month": 10,
+            "hour": 16,
+            "amount": 149456
+        },
+        {
+            "month": 10,
+            "hour": 17,
+            "amount": 213450
+        },
+        {
+            "month": 10,
+            "hour": 18,
+            "amount": 192029
+        },
+        {
+            "month": 10,
+            "hour": 19,
+            "amount": 122194
+        },
+        {
+            "month": 10,
+            "hour": 20,
+            "amount": 83231
+        },
+        {
+            "month": 10,
+            "hour": 21,
+            "amount": 62009
+        },
+        {
+            "month": 10,
+            "hour": 22,
+            "amount": 46535
+        },
+        {
+            "month": 10,
+            "hour": 23,
+            "amount": 31706
+        },
+        {
+            "month": 11,
+            "hour": 1,
+            "amount": 6453
+        },
+        {
+            "month": 11,
+            "hour": 2,
+            "amount": 3931
+        },
+        {
+            "month": 11,
+            "hour": 3,
+            "amount": 2687
+        },
+        {
+            "month": 11,
+            "hour": 4,
+            "amount": 3338
+        },
+        {
+            "month": 11,
+            "hour": 5,
+            "amount": 11106
+        },
+        {
+            "month": 11,
+            "hour": 6,
+            "amount": 34552
+        },
+        {
+            "month": 11,
+            "hour": 7,
+            "amount": 74539
+        },
+        {
+            "month": 11,
+            "hour": 8,
+            "amount": 132188
+        },
+        {
+            "month": 11,
+            "hour": 9,
+            "amount": 102558
+        },
+        {
+            "month": 11,
+            "hour": 10,
+            "amount": 72923
+        },
+        {
+            "month": 11,
+            "hour": 11,
+            "amount": 74854
+        },
+        {
+            "month": 11,
+            "hour": 12,
+            "amount": 84467
+        },
+        {
+            "month": 11,
+            "hour": 13,
+            "amount": 85875
+        },
+        {
+            "month": 11,
+            "hour": 14,
+            "amount": 89800
+        },
+        {
+            "month": 11,
+            "hour": 15,
+            "amount": 94964
+        },
+        {
+            "month": 11,
+            "hour": 16,
+            "amount": 107426
+        },
+        {
+            "month": 11,
+            "hour": 17,
+            "amount": 134576
+        },
+        {
+            "month": 11,
+            "hour": 18,
+            "amount": 119575
+        },
+        {
+            "month": 11,
+            "hour": 19,
+            "amount": 81412
+        },
+        {
+            "month": 11,
+            "hour": 20,
+            "amount": 56580
+        },
+        {
+            "month": 11,
+            "hour": 21,
+            "amount": 41640
+        },
+        {
+            "month": 11,
+            "hour": 22,
+            "amount": 30862
+        },
+        {
+            "month": 11,
+            "hour": 23,
+            "amount": 20377
+        },
+        {
+            "month": 12,
+            "hour": 1,
+            "amount": 5162
+        },
+        {
+            "month": 12,
+            "hour": 2,
+            "amount": 3304
+        },
+        {
+            "month": 12,
+            "hour": 3,
+            "amount": 2351
+        },
+        {
+            "month": 12,
+            "hour": 4,
+            "amount": 2445
+        },
+        {
+            "month": 12,
+            "hour": 5,
+            "amount": 6893
+        },
+        {
+            "month": 12,
+            "hour": 6,
+            "amount": 20806
+        },
+        {
+            "month": 12,
+            "hour": 7,
+            "amount": 44869
+        },
+        {
+            "month": 12,
+            "hour": 8,
+            "amount": 77972
+        },
+        {
+            "month": 12,
+            "hour": 9,
+            "amount": 66203
+        },
+        {
+            "month": 12,
+            "hour": 10,
+            "amount": 51328
+        },
+        {
+            "month": 12,
+            "hour": 11,
+            "amount": 54053
+        },
+        {
+            "month": 12,
+            "hour": 12,
+            "amount": 59722
+        },
+        {
+            "month": 12,
+            "hour": 13,
+            "amount": 60170
+        },
+        {
+            "month": 12,
+            "hour": 14,
+            "amount": 62582
+        },
+        {
+            "month": 12,
+            "hour": 15,
+            "amount": 64325
+        },
+        {
+            "month": 12,
+            "hour": 16,
+            "amount": 66164
+        },
+        {
+            "month": 12,
+            "hour": 17,
+            "amount": 78293
+        },
+        {
+            "month": 12,
+            "hour": 18,
+            "amount": 71758
+        },
+        {
+            "month": 12,
+            "hour": 19,
+            "amount": 50907
+        },
+        {
+            "month": 12,
+            "hour": 20,
+            "amount": 35413
+        },
+        {
+            "month": 12,
+            "hour": 21,
+            "amount": 26475
+        },
+        {
+            "month": 12,
+            "hour": 22,
+            "amount": 20654
+        },
+        {
+            "month": 12,
+            "hour": 23,
+            "amount": 14258
+        }
+    ],
+    "2020": [
+        {
+            "month": 1,
+            "hour": 1,
+            "amount": 5682
+        },
+        {
+            "month": 1,
+            "hour": 2,
+            "amount": 3659
+        },
+        {
+            "month": 1,
+            "hour": 3,
+            "amount": 2327
+        },
+        {
+            "month": 1,
+            "hour": 4,
+            "amount": 2532
+        },
+        {
+            "month": 1,
+            "hour": 5,
+            "amount": 9272
+        },
+        {
+            "month": 1,
+            "hour": 6,
+            "amount": 29218
+        },
+        {
+            "month": 1,
+            "hour": 7,
+            "amount": 63273
+        },
+        {
+            "month": 1,
+            "hour": 8,
+            "amount": 113714
+        },
+        {
+            "month": 1,
+            "hour": 9,
+            "amount": 83333
+        },
+        {
+            "month": 1,
+            "hour": 10,
+            "amount": 54982
+        },
+        {
+            "month": 1,
+            "hour": 11,
+            "amount": 57988
+        },
+        {
+            "month": 1,
+            "hour": 12,
+            "amount": 66714
+        },
+        {
+            "month": 1,
+            "hour": 13,
+            "amount": 69819
+        },
+        {
+            "month": 1,
+            "hour": 14,
+            "amount": 73202
+        },
+        {
+            "month": 1,
+            "hour": 15,
+            "amount": 77971
+        },
+        {
+            "month": 1,
+            "hour": 16,
+            "amount": 89073
+        },
+        {
+            "month": 1,
+            "hour": 17,
+            "amount": 119933
+        },
+        {
+            "month": 1,
+            "hour": 18,
+            "amount": 110242
+        },
+        {
+            "month": 1,
+            "hour": 19,
+            "amount": 74634
+        },
+        {
+            "month": 1,
+            "hour": 20,
+            "amount": 49379
+        },
+        {
+            "month": 1,
+            "hour": 21,
+            "amount": 33802
+        },
+        {
+            "month": 1,
+            "hour": 22,
+            "amount": 24500
+        },
+        {
+            "month": 1,
+            "hour": 23,
+            "amount": 15799
+        },
+        {
+            "month": 2,
+            "hour": 1,
+            "amount": 5022
+        },
+        {
+            "month": 2,
+            "hour": 2,
+            "amount": 3116
+        },
+        {
+            "month": 2,
+            "hour": 3,
+            "amount": 2062
+        },
+        {
+            "month": 2,
+            "hour": 4,
+            "amount": 2396
+        },
+        {
+            "month": 2,
+            "hour": 5,
+            "amount": 8433
+        },
+        {
+            "month": 2,
+            "hour": 6,
+            "amount": 25591
+        },
+        {
+            "month": 2,
+            "hour": 7,
+            "amount": 55212
+        },
+        {
+            "month": 2,
+            "hour": 8,
+            "amount": 100073
+        },
+        {
+            "month": 2,
+            "hour": 9,
+            "amount": 77280
+        },
+        {
+            "month": 2,
+            "hour": 10,
+            "amount": 54174
+        },
+        {
+            "month": 2,
+            "hour": 11,
+            "amount": 56146
+        },
+        {
+            "month": 2,
+            "hour": 12,
+            "amount": 62980
+        },
+        {
+            "month": 2,
+            "hour": 13,
+            "amount": 65258
+        },
+        {
+            "month": 2,
+            "hour": 14,
+            "amount": 66869
+        },
+        {
+            "month": 2,
+            "hour": 15,
+            "amount": 71962
+        },
+        {
+            "month": 2,
+            "hour": 16,
+            "amount": 80939
+        },
+        {
+            "month": 2,
+            "hour": 17,
+            "amount": 110964
+        },
+        {
+            "month": 2,
+            "hour": 18,
+            "amount": 100964
+        },
+        {
+            "month": 2,
+            "hour": 19,
+            "amount": 70032
+        },
+        {
+            "month": 2,
+            "hour": 20,
+            "amount": 47093
+        },
+        {
+            "month": 2,
+            "hour": 21,
+            "amount": 32766
+        },
+        {
+            "month": 2,
+            "hour": 22,
+            "amount": 24043
+        },
+        {
+            "month": 2,
+            "hour": 23,
+            "amount": 14824
+        },
+        {
+            "month": 3,
+            "hour": 1,
+            "amount": 3983
+        },
+        {
+            "month": 3,
+            "hour": 2,
+            "amount": 2069
+        },
+        {
+            "month": 3,
+            "hour": 3,
+            "amount": 1716
+        },
+        {
+            "month": 3,
+            "hour": 4,
+            "amount": 2050
+        },
+        {
+            "month": 3,
+            "hour": 5,
+            "amount": 6541
+        },
+        {
+            "month": 3,
+            "hour": 6,
+            "amount": 21364
+        },
+        {
+            "month": 3,
+            "hour": 7,
+            "amount": 44787
+        },
+        {
+            "month": 3,
+            "hour": 8,
+            "amount": 75940
+        },
+        {
+            "month": 3,
+            "hour": 9,
+            "amount": 57497
+        },
+        {
+            "month": 3,
+            "hour": 10,
+            "amount": 44075
+        },
+        {
+            "month": 3,
+            "hour": 11,
+            "amount": 49659
+        },
+        {
+            "month": 3,
+            "hour": 12,
+            "amount": 61552
+        },
+        {
+            "month": 3,
+            "hour": 13,
+            "amount": 67914
+        },
+        {
+            "month": 3,
+            "hour": 14,
+            "amount": 72389
+        },
+        {
+            "month": 3,
+            "hour": 15,
+            "amount": 77411
+        },
+        {
+            "month": 3,
+            "hour": 16,
+            "amount": 90129
+        },
+        {
+            "month": 3,
+            "hour": 17,
+            "amount": 114656
+        },
+        {
+            "month": 3,
+            "hour": 18,
+            "amount": 105280
+        },
+        {
+            "month": 3,
+            "hour": 19,
+            "amount": 67247
+        },
+        {
+            "month": 3,
+            "hour": 20,
+            "amount": 39612
+        },
+        {
+            "month": 3,
+            "hour": 21,
+            "amount": 26256
+        },
+        {
+            "month": 3,
+            "hour": 22,
+            "amount": 17558
+        },
+        {
+            "month": 3,
+            "hour": 23,
+            "amount": 11661
+        },
+        {
+            "month": 4,
+            "hour": 1,
+            "amount": 2109
+        },
+        {
+            "month": 4,
+            "hour": 2,
+            "amount": 1274
+        },
+        {
+            "month": 4,
+            "hour": 3,
+            "amount": 893
+        },
+        {
+            "month": 4,
+            "hour": 4,
+            "amount": 955
+        },
+        {
+            "month": 4,
+            "hour": 5,
+            "amount": 2623
+        },
+        {
+            "month": 4,
+            "hour": 6,
+            "amount": 10581
+        },
+        {
+            "month": 4,
+            "hour": 7,
+            "amount": 18068
+        },
+        {
+            "month": 4,
+            "hour": 8,
+            "amount": 21335
+        },
+        {
+            "month": 4,
+            "hour": 9,
+            "amount": 20952
+        },
+        {
+            "month": 4,
+            "hour": 10,
+            "amount": 25108
+        },
+        {
+            "month": 4,
+            "hour": 11,
+            "amount": 33101
+        },
+        {
+            "month": 4,
+            "hour": 12,
+            "amount": 44070
+        },
+        {
+            "month": 4,
+            "hour": 13,
+            "amount": 54408
+        },
+        {
+            "month": 4,
+            "hour": 14,
+            "amount": 61863
+        },
+        {
+            "month": 4,
+            "hour": 15,
+            "amount": 67891
+        },
+        {
+            "month": 4,
+            "hour": 16,
+            "amount": 71972
+        },
+        {
+            "month": 4,
+            "hour": 17,
+            "amount": 74982
+        },
+        {
+            "month": 4,
+            "hour": 18,
+            "amount": 67424
+        },
+        {
+            "month": 4,
+            "hour": 19,
+            "amount": 47108
+        },
+        {
+            "month": 4,
+            "hour": 20,
+            "amount": 23689
+        },
+        {
+            "month": 4,
+            "hour": 21,
+            "amount": 12767
+        },
+        {
+            "month": 4,
+            "hour": 22,
+            "amount": 9322
+        },
+        {
+            "month": 4,
+            "hour": 23,
+            "amount": 6529
+        },
+        {
+            "month": 5,
+            "hour": 1,
+            "amount": 5466
+        },
+        {
+            "month": 5,
+            "hour": 2,
+            "amount": 3334
+        },
+        {
+            "month": 5,
+            "hour": 3,
+            "amount": 2194
+        },
+        {
+            "month": 5,
+            "hour": 4,
+            "amount": 1963
+        },
+        {
+            "month": 5,
+            "hour": 5,
+            "amount": 5172
+        },
+        {
+            "month": 5,
+            "hour": 6,
+            "amount": 19124
+        },
+        {
+            "month": 5,
+            "hour": 7,
+            "amount": 32947
+        },
+        {
+            "month": 5,
+            "hour": 8,
+            "amount": 42268
+        },
+        {
+            "month": 5,
+            "hour": 9,
+            "amount": 46493
+        },
+        {
+            "month": 5,
+            "hour": 10,
+            "amount": 56102
+        },
+        {
+            "month": 5,
+            "hour": 11,
+            "amount": 74099
+        },
+        {
+            "month": 5,
+            "hour": 12,
+            "amount": 95200
+        },
+        {
+            "month": 5,
+            "hour": 13,
+            "amount": 115166
+        },
+        {
+            "month": 5,
+            "hour": 14,
+            "amount": 130024
+        },
+        {
+            "month": 5,
+            "hour": 15,
+            "amount": 139712
+        },
+        {
+            "month": 5,
+            "hour": 16,
+            "amount": 147834
+        },
+        {
+            "month": 5,
+            "hour": 17,
+            "amount": 154643
+        },
+        {
+            "month": 5,
+            "hour": 18,
+            "amount": 146880
+        },
+        {
+            "month": 5,
+            "hour": 19,
+            "amount": 115795
+        },
+        {
+            "month": 5,
+            "hour": 20,
+            "amount": 67128
+        },
+        {
+            "month": 5,
+            "hour": 21,
+            "amount": 35863
+        },
+        {
+            "month": 5,
+            "hour": 22,
+            "amount": 23973
+        },
+        {
+            "month": 5,
+            "hour": 23,
+            "amount": 16715
+        },
+        {
+            "month": 6,
+            "hour": 1,
+            "amount": 9914
+        },
+        {
+            "month": 6,
+            "hour": 2,
+            "amount": 5654
+        },
+        {
+            "month": 6,
+            "hour": 3,
+            "amount": 3365
+        },
+        {
+            "month": 6,
+            "hour": 4,
+            "amount": 3006
+        },
+        {
+            "month": 6,
+            "hour": 5,
+            "amount": 9290
+        },
+        {
+            "month": 6,
+            "hour": 6,
+            "amount": 31139
+        },
+        {
+            "month": 6,
+            "hour": 7,
+            "amount": 53610
+        },
+        {
+            "month": 6,
+            "hour": 8,
+            "amount": 72649
+        },
+        {
+            "month": 6,
+            "hour": 9,
+            "amount": 75793
+        },
+        {
+            "month": 6,
+            "hour": 10,
+            "amount": 81807
+        },
+        {
+            "month": 6,
+            "hour": 11,
+            "amount": 95768
+        },
+        {
+            "month": 6,
+            "hour": 12,
+            "amount": 116278
+        },
+        {
+            "month": 6,
+            "hour": 13,
+            "amount": 125350
+        },
+        {
+            "month": 6,
+            "hour": 14,
+            "amount": 132799
+        },
+        {
+            "month": 6,
+            "hour": 15,
+            "amount": 144672
+        },
+        {
+            "month": 6,
+            "hour": 16,
+            "amount": 163895
+        },
+        {
+            "month": 6,
+            "hour": 17,
+            "amount": 192983
+        },
+        {
+            "month": 6,
+            "hour": 18,
+            "amount": 170743
+        },
+        {
+            "month": 6,
+            "hour": 19,
+            "amount": 140662
+        },
+        {
+            "month": 6,
+            "hour": 20,
+            "amount": 103288
+        },
+        {
+            "month": 6,
+            "hour": 21,
+            "amount": 64220
+        },
+        {
+            "month": 6,
+            "hour": 22,
+            "amount": 41179
+        },
+        {
+            "month": 6,
+            "hour": 23,
+            "amount": 27347
+        },
+        {
+            "month": 7,
+            "hour": 1,
+            "amount": 15497
+        },
+        {
+            "month": 7,
+            "hour": 2,
+            "amount": 9012
+        },
+        {
+            "month": 7,
+            "hour": 3,
+            "amount": 5245
+        },
+        {
+            "month": 7,
+            "hour": 4,
+            "amount": 4819
+        },
+        {
+            "month": 7,
+            "hour": 5,
+            "amount": 12118
+        },
+        {
+            "month": 7,
+            "hour": 6,
+            "amount": 37976
+        },
+        {
+            "month": 7,
+            "hour": 7,
+            "amount": 66627
+        },
+        {
+            "month": 7,
+            "hour": 8,
+            "amount": 94851
+        },
+        {
+            "month": 7,
+            "hour": 9,
+            "amount": 94248
+        },
+        {
+            "month": 7,
+            "hour": 10,
+            "amount": 93014
+        },
+        {
+            "month": 7,
+            "hour": 11,
+            "amount": 104157
+        },
+        {
+            "month": 7,
+            "hour": 12,
+            "amount": 117799
+        },
+        {
+            "month": 7,
+            "hour": 13,
+            "amount": 123510
+        },
+        {
+            "month": 7,
+            "hour": 14,
+            "amount": 128450
+        },
+        {
+            "month": 7,
+            "hour": 15,
+            "amount": 140106
+        },
+        {
+            "month": 7,
+            "hour": 16,
+            "amount": 153474
+        },
+        {
+            "month": 7,
+            "hour": 17,
+            "amount": 188164
+        },
+        {
+            "month": 7,
+            "hour": 18,
+            "amount": 198987
+        },
+        {
+            "month": 7,
+            "hour": 19,
+            "amount": 170675
+        },
+        {
+            "month": 7,
+            "hour": 20,
+            "amount": 129877
+        },
+        {
+            "month": 7,
+            "hour": 21,
+            "amount": 84181
+        },
+        {
+            "month": 7,
+            "hour": 22,
+            "amount": 61732
+        },
+        {
+            "month": 7,
+            "hour": 23,
+            "amount": 44853
+        },
+        {
+            "month": 8,
+            "hour": 1,
+            "amount": 18217
+        },
+        {
+            "month": 8,
+            "hour": 2,
+            "amount": 10568
+        },
+        {
+            "month": 8,
+            "hour": 3,
+            "amount": 6179
+        },
+        {
+            "month": 8,
+            "hour": 4,
+            "amount": 5085
+        },
+        {
+            "month": 8,
+            "hour": 5,
+            "amount": 11725
+        },
+        {
+            "month": 8,
+            "hour": 6,
+            "amount": 36306
+        },
+        {
+            "month": 8,
+            "hour": 7,
+            "amount": 66558
+        },
+        {
+            "month": 8,
+            "hour": 8,
+            "amount": 96250
+        },
+        {
+            "month": 8,
+            "hour": 9,
+            "amount": 94896
+        },
+        {
+            "month": 8,
+            "hour": 10,
+            "amount": 98347
+        },
+        {
+            "month": 8,
+            "hour": 11,
+            "amount": 112736
+        },
+        {
+            "month": 8,
+            "hour": 12,
+            "amount": 131713
+        },
+        {
+            "month": 8,
+            "hour": 13,
+            "amount": 141608
+        },
+        {
+            "month": 8,
+            "hour": 14,
+            "amount": 151750
+        },
+        {
+            "month": 8,
+            "hour": 15,
+            "amount": 164250
+        },
+        {
+            "month": 8,
+            "hour": 16,
+            "amount": 181299
+        },
+        {
+            "month": 8,
+            "hour": 17,
+            "amount": 222093
+        },
+        {
+            "month": 8,
+            "hour": 18,
+            "amount": 233260
+        },
+        {
+            "month": 8,
+            "hour": 19,
+            "amount": 192837
+        },
+        {
+            "month": 8,
+            "hour": 20,
+            "amount": 126716
+        },
+        {
+            "month": 8,
+            "hour": 21,
+            "amount": 82842
+        },
+        {
+            "month": 8,
+            "hour": 22,
+            "amount": 65163
+        },
+        {
+            "month": 8,
+            "hour": 23,
+            "amount": 49399
+        },
+        {
+            "month": 9,
+            "hour": 1,
+            "amount": 15012
+        },
+        {
+            "month": 9,
+            "hour": 2,
+            "amount": 8705
+        },
+        {
+            "month": 9,
+            "hour": 3,
+            "amount": 5152
+        },
+        {
+            "month": 9,
+            "hour": 4,
+            "amount": 4625
+        },
+        {
+            "month": 9,
+            "hour": 5,
+            "amount": 12041
+        },
+        {
+            "month": 9,
+            "hour": 6,
+            "amount": 40873
+        },
+        {
+            "month": 9,
+            "hour": 7,
+            "amount": 80754
+        },
+        {
+            "month": 9,
+            "hour": 8,
+            "amount": 113667
+        },
+        {
+            "month": 9,
+            "hour": 9,
+            "amount": 107084
+        },
+        {
+            "month": 9,
+            "hour": 10,
+            "amount": 110056
+        },
+        {
+            "month": 9,
+            "hour": 11,
+            "amount": 127818
+        },
+        {
+            "month": 9,
+            "hour": 12,
+            "amount": 150010
+        },
+        {
+            "month": 9,
+            "hour": 13,
+            "amount": 161986
+        },
+        {
+            "month": 9,
+            "hour": 14,
+            "amount": 173585
+        },
+        {
+            "month": 9,
+            "hour": 15,
+            "amount": 187744
+        },
+        {
+            "month": 9,
+            "hour": 16,
+            "amount": 206347
+        },
+        {
+            "month": 9,
+            "hour": 17,
+            "amount": 250513
+        },
+        {
+            "month": 9,
+            "hour": 18,
+            "amount": 249036
+        },
+        {
+            "month": 9,
+            "hour": 19,
+            "amount": 175515
+        },
+        {
+            "month": 9,
+            "hour": 20,
+            "amount": 106462
+        },
+        {
+            "month": 9,
+            "hour": 21,
+            "amount": 72206
+        },
+        {
+            "month": 9,
+            "hour": 22,
+            "amount": 58023
+        },
+        {
+            "month": 9,
+            "hour": 23,
+            "amount": 44960
+        },
+        {
+            "month": 10,
+            "hour": 1,
+            "amount": 14689
+        },
+        {
+            "month": 10,
+            "hour": 2,
+            "amount": 8213
+        },
+        {
+            "month": 10,
+            "hour": 3,
+            "amount": 4828
+        },
+        {
+            "month": 10,
+            "hour": 4,
+            "amount": 4721
+        },
+        {
+            "month": 10,
+            "hour": 5,
+            "amount": 11965
+        },
+        {
+            "month": 10,
+            "hour": 6,
+            "amount": 39248
+        },
+        {
+            "month": 10,
+            "hour": 7,
+            "amount": 77263
+        },
+        {
+            "month": 10,
+            "hour": 8,
+            "amount": 112154
+        },
+        {
+            "month": 10,
+            "hour": 9,
+            "amount": 100862
+        },
+        {
+            "month": 10,
+            "hour": 10,
+            "amount": 99460
+        },
+        {
+            "month": 10,
+            "hour": 11,
+            "amount": 113817
+        },
+        {
+            "month": 10,
+            "hour": 12,
+            "amount": 135569
+        },
+        {
+            "month": 10,
+            "hour": 13,
+            "amount": 150450
+        },
+        {
+            "month": 10,
+            "hour": 14,
+            "amount": 163120
+        },
+        {
+            "month": 10,
+            "hour": 15,
+            "amount": 177499
+        },
+        {
+            "month": 10,
+            "hour": 16,
+            "amount": 192996
+        },
+        {
+            "month": 10,
+            "hour": 17,
+            "amount": 224071
+        },
+        {
+            "month": 10,
+            "hour": 18,
+            "amount": 206709
+        },
+        {
+            "month": 10,
+            "hour": 19,
+            "amount": 141125
+        },
+        {
+            "month": 10,
+            "hour": 20,
+            "amount": 90955
+        },
+        {
+            "month": 10,
+            "hour": 21,
+            "amount": 62650
+        },
+        {
+            "month": 10,
+            "hour": 22,
+            "amount": 50744
+        },
+        {
+            "month": 10,
+            "hour": 23,
+            "amount": 40016
+        },
+        {
+            "month": 11,
+            "hour": 1,
+            "amount": 10519
+        },
+        {
+            "month": 11,
+            "hour": 2,
+            "amount": 5833
+        },
+        {
+            "month": 11,
+            "hour": 3,
+            "amount": 3855
+        },
+        {
+            "month": 11,
+            "hour": 4,
+            "amount": 3981
+        },
+        {
+            "month": 11,
+            "hour": 5,
+            "amount": 9722
+        },
+        {
+            "month": 11,
+            "hour": 6,
+            "amount": 31299
+        },
+        {
+            "month": 11,
+            "hour": 7,
+            "amount": 60573
+        },
+        {
+            "month": 11,
+            "hour": 8,
+            "amount": 87412
+        },
+        {
+            "month": 11,
+            "hour": 9,
+            "amount": 85011
+        },
+        {
+            "month": 11,
+            "hour": 10,
+            "amount": 90453
+        },
+        {
+            "month": 11,
+            "hour": 11,
+            "amount": 106210
+        },
+        {
+            "month": 11,
+            "hour": 12,
+            "amount": 125663
+        },
+        {
+            "month": 11,
+            "hour": 13,
+            "amount": 134688
+        },
+        {
+            "month": 11,
+            "hour": 14,
+            "amount": 141415
+        },
+        {
+            "month": 11,
+            "hour": 15,
+            "amount": 149215
+        },
+        {
+            "month": 11,
+            "hour": 16,
+            "amount": 152385
+        },
+        {
+            "month": 11,
+            "hour": 17,
+            "amount": 139768
+        },
+        {
+            "month": 11,
+            "hour": 18,
+            "amount": 119958
+        },
+        {
+            "month": 11,
+            "hour": 19,
+            "amount": 90670
+        },
+        {
+            "month": 11,
+            "hour": 20,
+            "amount": 61275
+        },
+        {
+            "month": 11,
+            "hour": 21,
+            "amount": 44134
+        },
+        {
+            "month": 11,
+            "hour": 22,
+            "amount": 37372
+        },
+        {
+            "month": 11,
+            "hour": 23,
+            "amount": 26849
+        },
+        {
+            "month": 12,
+            "hour": 1,
+            "amount": 5443
+        },
+        {
+            "month": 12,
+            "hour": 2,
+            "amount": 3419
+        },
+        {
+            "month": 12,
+            "hour": 3,
+            "amount": 2338
+        },
+        {
+            "month": 12,
+            "hour": 4,
+            "amount": 2476
+        },
+        {
+            "month": 12,
+            "hour": 5,
+            "amount": 7388
+        },
+        {
+            "month": 12,
+            "hour": 6,
+            "amount": 22084
+        },
+        {
+            "month": 12,
+            "hour": 7,
+            "amount": 40576
+        },
+        {
+            "month": 12,
+            "hour": 8,
+            "amount": 56922
+        },
+        {
+            "month": 12,
+            "hour": 9,
+            "amount": 55147
+        },
+        {
+            "month": 12,
+            "hour": 10,
+            "amount": 55471
+        },
+        {
+            "month": 12,
+            "hour": 11,
+            "amount": 64448
+        },
+        {
+            "month": 12,
+            "hour": 12,
+            "amount": 76105
+        },
+        {
+            "month": 12,
+            "hour": 13,
+            "amount": 85031
+        },
+        {
+            "month": 12,
+            "hour": 14,
+            "amount": 92313
+        },
+        {
+            "month": 12,
+            "hour": 15,
+            "amount": 97257
+        },
+        {
+            "month": 12,
+            "hour": 16,
+            "amount": 95280
+        },
+        {
+            "month": 12,
+            "hour": 17,
+            "amount": 87044
+        },
+        {
+            "month": 12,
+            "hour": 18,
+            "amount": 75256
+        },
+        {
+            "month": 12,
+            "hour": 19,
+            "amount": 56648
+        },
+        {
+            "month": 12,
+            "hour": 20,
+            "amount": 37662
+        },
+        {
+            "month": 12,
+            "hour": 21,
+            "amount": 25533
+        },
+        {
+            "month": 12,
+            "hour": 22,
+            "amount": 21538
+        },
+        {
+            "month": 12,
+            "hour": 23,
+            "amount": 14210
+        }
+    ],
+    "2021": [
+        {
+            "month": 1,
+            "hour": 1,
+            "amount": 5112
+        },
+        {
+            "month": 1,
+            "hour": 2,
+            "amount": 3125
+        },
+        {
+            "month": 1,
+            "hour": 3,
+            "amount": 2323
+        },
+        {
+            "month": 1,
+            "hour": 4,
+            "amount": 2529
+        },
+        {
+            "month": 1,
+            "hour": 5,
+            "amount": 7442
+        },
+        {
+            "month": 1,
+            "hour": 6,
+            "amount": 23447
+        },
+        {
+            "month": 1,
+            "hour": 7,
+            "amount": 41942
+        },
+        {
+            "month": 1,
+            "hour": 8,
+            "amount": 62054
+        },
+        {
+            "month": 1,
+            "hour": 9,
+            "amount": 57493
+        },
+        {
+            "month": 1,
+            "hour": 10,
+            "amount": 55285
+        },
+        {
+            "month": 1,
+            "hour": 11,
+            "amount": 64547
+        },
+        {
+            "month": 1,
+            "hour": 12,
+            "amount": 76858
+        },
+        {
+            "month": 1,
+            "hour": 13,
+            "amount": 85410
+        },
+        {
+            "month": 1,
+            "hour": 14,
+            "amount": 90843
+        },
+        {
+            "month": 1,
+            "hour": 15,
+            "amount": 94182
+        },
+        {
+            "month": 1,
+            "hour": 16,
+            "amount": 96111
+        },
+        {
+            "month": 1,
+            "hour": 17,
+            "amount": 92717
+        },
+        {
+            "month": 1,
+            "hour": 18,
+            "amount": 79717
+        },
+        {
+            "month": 1,
+            "hour": 19,
+            "amount": 57247
+        },
+        {
+            "month": 1,
+            "hour": 20,
+            "amount": 36230
+        },
+        {
+            "month": 1,
+            "hour": 21,
+            "amount": 22687
+        },
+        {
+            "month": 1,
+            "hour": 22,
+            "amount": 17995
+        },
+        {
+            "month": 1,
+            "hour": 23,
+            "amount": 11902
+        },
+        {
+            "month": 2,
+            "hour": 1,
+            "amount": 3234
+        },
+        {
+            "month": 2,
+            "hour": 2,
+            "amount": 2066
+        },
+        {
+            "month": 2,
+            "hour": 3,
+            "amount": 1291
+        },
+        {
+            "month": 2,
+            "hour": 4,
+            "amount": 1402
+        },
+        {
+            "month": 2,
+            "hour": 5,
+            "amount": 4334
+        },
+        {
+            "month": 2,
+            "hour": 6,
+            "amount": 13217
+        },
+        {
+            "month": 2,
+            "hour": 7,
+            "amount": 22793
+        },
+        {
+            "month": 2,
+            "hour": 8,
+            "amount": 33240
+        },
+        {
+            "month": 2,
+            "hour": 9,
+            "amount": 31274
+        },
+        {
+            "month": 2,
+            "hour": 10,
+            "amount": 30595
+        },
+        {
+            "month": 2,
+            "hour": 11,
+            "amount": 34359
+        },
+        {
+            "month": 2,
+            "hour": 12,
+            "amount": 39969
+        },
+        {
+            "month": 2,
+            "hour": 13,
+            "amount": 43282
+        },
+        {
+            "month": 2,
+            "hour": 14,
+            "amount": 47985
+        },
+        {
+            "month": 2,
+            "hour": 15,
+            "amount": 51849
+        },
+        {
+            "month": 2,
+            "hour": 16,
+            "amount": 55498
+        },
+        {
+            "month": 2,
+            "hour": 17,
+            "amount": 59981
+        },
+        {
+            "month": 2,
+            "hour": 18,
+            "amount": 51707
+        },
+        {
+            "month": 2,
+            "hour": 19,
+            "amount": 38112
+        },
+        {
+            "month": 2,
+            "hour": 20,
+            "amount": 24829
+        },
+        {
+            "month": 2,
+            "hour": 21,
+            "amount": 15940
+        },
+        {
+            "month": 2,
+            "hour": 22,
+            "amount": 12949
+        },
+        {
+            "month": 2,
+            "hour": 23,
+            "amount": 9272
+        },
+        {
+            "month": 3,
+            "hour": 1,
+            "amount": 42495
+        },
+        {
+            "month": 3,
+            "hour": 2,
+            "amount": 29758
+        },
+        {
+            "month": 3,
+            "hour": 3,
+            "amount": 24279
+        },
+        {
+            "month": 3,
+            "hour": 4,
+            "amount": 15971
+        },
+        {
+            "month": 3,
+            "hour": 5,
+            "amount": 8331
+        },
+        {
+            "month": 3,
+            "hour": 6,
+            "amount": 5057
+        },
+        {
+            "month": 3,
+            "hour": 7,
+            "amount": 3118
+        },
+        {
+            "month": 3,
+            "hour": 8,
+            "amount": 2565
+        },
+        {
+            "month": 3,
+            "hour": 9,
+            "amount": 6273
+        },
+        {
+            "month": 3,
+            "hour": 10,
+            "amount": 20028
+        },
+        {
+            "month": 3,
+            "hour": 11,
+            "amount": 42965
+        },
+        {
+            "month": 3,
+            "hour": 12,
+            "amount": 68919
+        },
+        {
+            "month": 3,
+            "hour": 13,
+            "amount": 75364
+        },
+        {
+            "month": 3,
+            "hour": 14,
+            "amount": 69289
+        },
+        {
+            "month": 3,
+            "hour": 15,
+            "amount": 74050
+        },
+        {
+            "month": 3,
+            "hour": 16,
+            "amount": 88225
+        },
+        {
+            "month": 3,
+            "hour": 17,
+            "amount": 102314
+        },
+        {
+            "month": 3,
+            "hour": 18,
+            "amount": 113558
+        },
+        {
+            "month": 3,
+            "hour": 19,
+            "amount": 121282
+        },
+        {
+            "month": 3,
+            "hour": 20,
+            "amount": 128585
+        },
+        {
+            "month": 3,
+            "hour": 21,
+            "amount": 140034
+        },
+        {
+            "month": 3,
+            "hour": 22,
+            "amount": 140642
+        },
+        {
+            "month": 3,
+            "hour": 23,
+            "amount": 104955
+        },
+        {
+            "month": 4,
+            "hour": 1,
+            "amount": 54915
+        },
+        {
+            "month": 4,
+            "hour": 2,
+            "amount": 43653
+        },
+        {
+            "month": 4,
+            "hour": 3,
+            "amount": 34316
+        },
+        {
+            "month": 4,
+            "hour": 4,
+            "amount": 19813
+        },
+        {
+            "month": 4,
+            "hour": 5,
+            "amount": 10375
+        },
+        {
+            "month": 4,
+            "hour": 6,
+            "amount": 6495
+        },
+        {
+            "month": 4,
+            "hour": 7,
+            "amount": 3824
+        },
+        {
+            "month": 4,
+            "hour": 8,
+            "amount": 3734
+        },
+        {
+            "month": 4,
+            "hour": 9,
+            "amount": 11163
+        },
+        {
+            "month": 4,
+            "hour": 10,
+            "amount": 36484
+        },
+        {
+            "month": 4,
+            "hour": 11,
+            "amount": 69144
+        },
+        {
+            "month": 4,
+            "hour": 12,
+            "amount": 104748
+        },
+        {
+            "month": 4,
+            "hour": 13,
+            "amount": 92456
+        },
+        {
+            "month": 4,
+            "hour": 14,
+            "amount": 90555
+        },
+        {
+            "month": 4,
+            "hour": 15,
+            "amount": 104594
+        },
+        {
+            "month": 4,
+            "hour": 16,
+            "amount": 121976
+        },
+        {
+            "month": 4,
+            "hour": 17,
+            "amount": 134556
+        },
+        {
+            "month": 4,
+            "hour": 18,
+            "amount": 145744
+        },
+        {
+            "month": 4,
+            "hour": 19,
+            "amount": 154353
+        },
+        {
+            "month": 4,
+            "hour": 20,
+            "amount": 166422
+        },
+        {
+            "month": 4,
+            "hour": 21,
+            "amount": 194943
+        },
+        {
+            "month": 4,
+            "hour": 22,
+            "amount": 190345
+        },
+        {
+            "month": 4,
+            "hour": 23,
+            "amount": 139811
+        }
+    ]
+}

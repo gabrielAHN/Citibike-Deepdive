@@ -1,5 +1,4 @@
 import datetime
-import json
 import os
 import requests
 
@@ -7,7 +6,6 @@ from citibike_data import get_new_data, citibike_dates, create_json_file
 from citibike_graphs.citibike_map import create_citibike_map_data
 from citibike_graphs.citibike_heatmap import create_citibike_heat_map_data
 from citibike_graphs.citibike_line_graph import create_citibike_line_graph_data
-
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
@@ -46,7 +44,8 @@ def check_for_new_data(count):
         file_name = download_new_data(new_month, new_year)
         if not file_name:
             return None, None
-        return file_name, {'month': new_month, 'year': new_year, 'exist_data': data_dates}
+        date = {'month': new_month, 'year': new_year, 'exist_data': data_dates}
+        return file_name, date
     return None, None
 
 
@@ -66,7 +65,8 @@ def download_new_data(month, year):
 
 
 def main():
-    count = -2
+    count = -11
+
     new_file, new_date = check_for_new_data(count)
     if new_file:
         new_data = get_new_data(new_file, path)

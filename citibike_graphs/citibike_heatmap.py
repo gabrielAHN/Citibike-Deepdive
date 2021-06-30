@@ -10,20 +10,20 @@ hours = list(range(1, 25))
 
 def get_date_object(date):
     date = date['starttime']
-    date = re.sub('\..+', '', date)
+    date = re.sub(r'\..+', '', date)
     date = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
     return date
 
 
 def count_hours_by_month(date_list, year, month, hour):
-    count = len([
+    count = [
                 trip
                 for trip in date_list
                 if int(year) == trip.year
                 and month == trip.month
                 and hour == trip.hour
-            ])
-    return count
+            ]
+    return len(count)
 
 
 def create_citibike_heat_map_data(data, path, dates):
@@ -54,7 +54,7 @@ def citibike_heat_map_data(data, dates):
         year: [
             {
                 'month': month,
-                'hour' : hour,
+                'hour': hour,
                 'amount': count_hours_by_month(date_list, year, month, hour)
             }
             for month in months

@@ -11,8 +11,13 @@ datasets_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/'
 def format_data(column):
     column = column.lower()
     column = column.replace(' ', '_')
+    column = column.replace('member_casual', 'user_type')
     column = column.replace('usertype', 'user_type')
+    column = column.replace('started_at', 'starttime')
+    column = column.replace('ended_at', 'endtime')
     column = column.replace('start_time', 'starttime')
+    column = column.replace('start_lng', 'start_station_latitude')
+    column = column.replace('start_lat', 'start_station_longitude')
     return column
 
 
@@ -25,7 +30,7 @@ def get_new_data(file, file_path):
             header = next(reader)
             new_data = [
                 {
-                    format_data(header[idx]):column 
+                    format_data(header[idx]):column
                     for idx, column in enumerate(row)
                 }
                 for row in reader
@@ -41,8 +46,8 @@ def create_json_file(data, path, file_name):
 def citibike_dates(path):
     file = "{}file_dates.json".format(path)
     with open(file) as f:
-      data = json.load(f)
-    return data
+        data = json.load(f)
+        return data
 
 
 def get_citibike_map_data():
@@ -73,6 +78,7 @@ def get_citibike_date():
             return data
     except IOError:
         return None
+
 
 def get_citibike_line_graph():
     file = "{}citibike_line_graph.json".format(datasets_path)

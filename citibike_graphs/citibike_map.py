@@ -29,7 +29,12 @@ def combine_datasets(new_data, existing_data, dates):
                 'station_name': existing_data[dock]['station_name'],
                 "lat": existing_data[dock]['lat'],
                 "lon": existing_data[dock]['lon'],
-                "year": adding_by_year(dates['year'], dock, existing_data, new_data)
+                "year": adding_by_year(
+                    dates['year'],
+                    dock,
+                    existing_data,
+                    new_data
+                )
             }
             for dock in existing_data
         }
@@ -42,8 +47,17 @@ def combine_datasets(new_data, existing_data, dates):
                 "lon": existing_data[dock]['lon'],
                 "year": {
                     year: {
-                    'total_count':  making_total_count(year, existing_data['3244']['year'], new_data['3244']['year']),
-                    'months': adding_by_month(year, dock, existing_data, new_data)
+                        'total_count':  making_total_count(
+                                year,
+                                existing_data['3244']['year'],
+                                new_data['3244']['year']
+                            ),
+                        'months': adding_by_month(
+                                year,
+                                dock,
+                                existing_data,
+                                new_data
+                            )
                     }
                     for year in existing_data[dock]['year']
                 }
@@ -67,7 +81,7 @@ def making_total_count(year, existing_data, new_data):
     if not new_data_year:
         return existing_data[year]['total_count']
     exist_total = existing_data[year]['total_count']
-    new_total  = new_data[year]['total_count']
+    new_total = new_data[year]['total_count']
     return exist_total + new_total
 
 
@@ -82,7 +96,7 @@ def adding_by_month(year, dock, existing_data, new_data):
 
 
 def citibike_map_data(data, dates):
-    dock_ids = { 
+    dock_ids = {
         dock['start_station_id']: {
             'station_name': dock['start_station_name'],
             'lat': dock['start_station_latitude'],

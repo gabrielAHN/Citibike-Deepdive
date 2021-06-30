@@ -1,8 +1,8 @@
 # Citi Bike Over the Years
 
-These are the codes to build a dataset to anaylsis Citi bike over the years. To find the results of this [project].(https://www.gabrielhn.com/topics/bike/)
+These are the codes to build a dataset to anaylsis Citi bike over the years. To find the results of this [project](https://www.gabrielhn.com/topics/bike/)
 
-This project uses python to make use of the data
+This project uses python to make the data found in data that feeds into the graphs.
 
 
 # Installs
@@ -17,5 +17,5 @@ pip3 install -r requirements.txt
 Run the script
 
 ```
-python main
+python main.py
 ```

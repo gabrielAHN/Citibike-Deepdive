@@ -1,66 +1,158 @@
 import json
-import re
-from datetime import datetime
+import datetime
 
-from citibike_data import get_citibike_heatmap_data
+from os.path import dirname, abspath
+from citibike_data import read_s3_file
 
-months = list(range(1, 13))
-hours = list(range(1, 25))
-
-
-def get_date_object(date):
-    date = date['starttime']
-    date = re.sub(r'\..+', '', date)
-    date = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
-    return date
+PROJECT_DIR = dirname(dirname(abspath(__file__)))
 
 
-def count_hours_by_month(date_list, year, month, hour):
-    count = [
-                trip
-                for trip in date_list
-                if int(year) == trip.year
-                and month == trip.month
-                and hour == trip.hour
-            ]
-    return len(count)
+def create_citibike_heat_map_data(new_datasets, file_type='s3'):
+    new_data = citibike_heat_map_data(new_datasets)
 
+    if file_type == 'local':
+        try:
+            with open(f"{PROJECT_DIR}/datasets/heat_graph.json", 'r') as file:
+                existing_data = json.load(file)
+        except FileNotFoundError:
+            existing_data = None
+    elif file_type == 's3':
+        existing_data = read_s3_file('heat_graph.json')
 
-def create_citibike_heat_map_data(data, path, dates):
-    new_data = citibike_heat_map_data(data, dates)
-    existing_data = get_citibike_heatmap_data()
     if existing_data:
-        if dates['year'] not in list(existing_data.keys()):
-            existing_data[dates['year']] = new_data[dates['year']]
-            new_data = existing_data
-        else:
-            existing_months = existing_data[dates['year']]
-            new_months = new_data[dates['year']]
-            existing_data[dates['year']] = existing_months + new_months
-            new_data = existing_data
+        new_data = update_data(new_data, existing_data)
 
-    new_file = "{}citibike_data_heatmap.json".format(path)
-    with open(new_file, 'w+') as f:
-        json.dump(new_data, f, indent=4)
-    print('heat_map created')
+    return new_data
 
 
-def citibike_heat_map_data(data, dates):
-    date_list = [
-        get_date_object(date)
-        for date in data
+def convert_month(month_num):
+    date = datetime.datetime(2000, month_num, 1)
+    short_month_name = date.strftime('%b')
+    return short_month_name
+
+
+def update_data(new_data, existing_data):
+    heat_data = {}
+
+    new_years = [
+        year
+        for year in list(new_data.keys())
+        if year not in list(existing_data.keys())
     ]
-    json_data = {
-        year: [
-            {
-                'month': month,
-                'hour': hour,
-                'amount': count_hours_by_month(date_list, year, month, hour)
+    if new_years:
+        for year in new_years:
+            heat_data[year] = new_data[year]
+
+    for year in existing_data:
+        if new_data.get(str(year)):
+            new_data_fields = new_data[year]
+            existing_data_fields = existing_data[year]
+
+            max_value = existing_data_fields['max_value']
+            hours = existing_data_fields['hours']
+            months = existing_data_fields['months'] + \
+                new_data_fields['months']
+            value = existing_data_fields['value'] + \
+                new_data_fields['value']
+
+            if max_value < new_data_fields['max_value']:
+                max_value = new_data_fields['max_value']
+
+            heat_data[year] = {
+                "max_value": max_value,
+                "months": months,
+                "hours": hours,
+                "value": value
             }
-            for month in months
+        else:
+            heat_data[year] = existing_data[year]
+    return heat_data
+
+
+def sum_trip_data(new_datasets, year, month, hour):
+
+    if hour == 1:
+        return sum(
+            [
+                len(
+                    dataset['data_df'][
+                        (dataset['data_df']['starttime'].dt.month == month) &
+                        (dataset['data_df']['starttime'].dt.hour <= hour)
+                    ].index
+                )
+                for dataset in new_datasets
+                if dataset['year'] == year
+            ]
+        )
+    elif hour == 23:
+        return sum(
+            [
+                len(
+                    dataset['data_df'][
+                        (dataset['data_df']['starttime'].dt.month == month) &
+                        (dataset['data_df']['starttime'].dt.hour >= hour)
+                    ].index
+                )
+                for dataset in new_datasets
+                if dataset['year'] == year
+            ]
+        )
+    else:
+        return sum(
+            [
+                len(
+                    dataset['data_df'][
+                        (dataset['data_df']['starttime'].dt.month == month) &
+                        (dataset['data_df']['starttime'].dt.hour == hour)
+                    ].index
+                )
+                for dataset in new_datasets
+                if dataset['year'] == year
+            ]
+        )
+
+
+def citibike_heat_map_data(new_datasets):
+    years = set([
+        df['year']
+        for df in new_datasets
+    ])
+    heat_data = {}
+
+    for year in years:
+        hours = list(range(1, 24))
+        months = list(range(1, 13))
+
+        values = [
+            [
+                month - 1,
+                hour - 1,
+                sum_trip_data(new_datasets, year, month, hour)
+            ]
             for hour in hours
-            if count_hours_by_month(date_list, year, month, hour) > 0
+            for month in months
+            if sum_trip_data(new_datasets, year, month, hour) != 0
         ]
-        for year in [dates['year']]
-    }
-    return json_data
+
+        months = [
+            convert_month(month)
+            for month in months
+            if month in [
+                value[0] + 1
+                for value in values
+                if value[2] != 0
+            ]
+        ]
+        max_value = max(
+            [
+                value[2]
+                for value in values
+            ]
+        )
+        heat_data[str(year)] = {
+            "max_value": max_value,
+            "months": months,
+            "hours": hours,
+            "value": values
+        }
+    return heat_data
